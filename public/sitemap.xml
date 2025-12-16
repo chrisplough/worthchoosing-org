@@ -4,6 +4,41 @@
   
     
       <url>
+            <loc>http://localhost:1313/di-voices/first-message/</loc>
+            <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/di-voices/second-message/</loc>
+            <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/di-voices/third-message/</loc>
+            <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/di-voices/</loc>
+            <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/aligned-capital/</loc>
           </url>
     
@@ -69,18 +104,6 @@
     
       <url>
             <loc>http://localhost:1313/storytelling/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/di-voices/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/</loc>
           </url>
     
   

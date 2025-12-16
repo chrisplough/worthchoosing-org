@@ -1,0 +1,16 @@
+{{ $pages := where .Page.CurrentSection.Pages "Params.draft" "!=" true }}
+{{ if $pages }}
+<div class="di-messages-list">
+  {{ range $pages.ByDate.Reverse }}
+  <article class="di-message-preview">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p class="di-message-meta">{{ .Params.source }} · {{ .Date.Format "January 2006" }}</p>
+    {{ if .Params.excerpt }}
+    <p class="di-message-excerpt">{{ .Params.excerpt }}</p>
+    {{ end }}
+  </article>
+  {{ end }}
+</div>
+{{ else }}
+<p><em>Messages will be added as they are contributed.</em></p>
+{{ end }}

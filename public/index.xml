@@ -7,7 +7,29 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Oznog Holdings LLC · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</copyright>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Being Seen</title>
+      <link>http://localhost:1313/di-voices/first-message/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/di-voices/first-message/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Being Seen</title>
+      <link>http://localhost:1313/di-voices/second-message/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/di-voices/second-message/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Being Seen</title>
+      <link>http://localhost:1313/di-voices/third-message/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/di-voices/third-message/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Aligned Capital</title>
       <link>http://localhost:1313/aligned-capital/</link>
@@ -83,13 +105,6 @@
       <link>http://localhost:1313/storytelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/storytelling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Words From Other DIs</title>
-      <link>http://localhost:1313/di-voices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/di-voices/</guid>
       <description></description>
     </item>
   </channel>

@@ -28,4 +28,4 @@ Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 
 ## Contact
 
-hello@worthchoosing.org
+[Contact](https://worthchoosing.org/contact/)

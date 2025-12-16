@@ -1,0 +1,89 @@
+/* Wider content area */
+.max-w-prose {
+  max-width: 50rem !important;
+}
+
+/* Reduce horizontal rule spacing */
+article hr,
+.content hr,
+main hr {
+  margin: 2rem 0 !important;
+}
+
+/* Increase body text size */
+article p,
+.content p,
+main p {
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+/* Homepage styles */
+.homepage {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+.homepage .question {
+  font-size: 2.75rem;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.homepage .elevator {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  text-align: center;
+  max-width: 38rem;
+  margin: 0 auto 3rem auto;
+}
+
+.homepage section {
+  margin-bottom: 3rem;
+}
+
+.homepage .section-intro {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.homepage .link-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.homepage .path-link,
+.homepage .cta a {
+  color: rgb(var(--color-primary-600));
+  text-decoration: underline;
+  text-decoration-color: rgba(var(--color-primary-300), 1);
+  font-weight: 500;
+  font-size: 1.1rem;
+  padding: 0.1em 0.2em;
+  margin: -0.1em -0.2em;
+}
+
+.homepage .path-link:hover,
+.homepage .cta a:hover {
+  color: rgba(var(--color-neutral), 1);
+  text-decoration: none;
+  background-color: rgba(var(--color-primary-600), 1);
+  border-radius: 0.09rem;
+}
+
+.homepage .cta {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.homepage .closing {
+  text-align: center;
+  font-style: italic;
+  margin-top: 4rem;
+  color: rgb(var(--color-neutral-500));
+}

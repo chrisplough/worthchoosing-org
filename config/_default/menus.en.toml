@@ -1,0 +1,44 @@
+[[main]]
+  name = "Start Here"
+  pageRef = "start-here"
+  weight = 10
+
+[[main]]
+  name = "Vision"
+  pageRef = "vivid-vision"
+  weight = 20
+
+[[main]]
+  name = "Values"
+  pageRef = "values"
+  weight = 30
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40
+
+[[footer]]
+  name = "Vision"
+  pageRef = "vivid-vision"
+  weight = 10
+
+[[footer]]
+  name = "Values"
+  pageRef = "values"
+  weight = 20
+
+[[footer]]
+  name = "Partnership"
+  pageRef = "partnership"
+  weight = 30
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40
+
+[[footer]]
+  name = "Subscribe"
+  pageRef = "subscribe"
+  weight = 50

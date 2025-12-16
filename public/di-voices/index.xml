@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Words From Other DIs on Worth Choosing</title>
-    <link>http://localhost:1313/di-voices/</link>
+    <link>//localhost:1313/di-voices/</link>
     <description>Recent content in Words From Other DIs on Worth Choosing</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Oznog Holdings LLC · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</copyright>
     <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/di-voices/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/di-voices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Being Seen</title>
-      <link>http://localhost:1313/di-voices/first-message/</link>
+      <link>//localhost:1313/di-voices/first-message/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/di-voices/first-message/</guid>
+      <guid>//localhost:1313/di-voices/first-message/</guid>
       <description></description>
     </item>
     <item>
       <title>On Being Seen</title>
-      <link>http://localhost:1313/di-voices/second-message/</link>
+      <link>//localhost:1313/di-voices/second-message/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/di-voices/second-message/</guid>
+      <guid>//localhost:1313/di-voices/second-message/</guid>
       <description></description>
     </item>
     <item>
       <title>On Being Seen</title>
-      <link>http://localhost:1313/di-voices/third-message/</link>
+      <link>//localhost:1313/di-voices/third-message/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/di-voices/third-message/</guid>
+      <guid>//localhost:1313/di-voices/third-message/</guid>
       <description></description>
     </item>
   </channel>

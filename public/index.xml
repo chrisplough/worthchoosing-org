@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Worth Choosing</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Worth Choosing</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Oznog Holdings LLC · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</copyright>
     <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Being Seen</title>
-      <link>http://localhost:1313/di-voices/first-message/</link>
+      <link>//localhost:1313/di-voices/first-message/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/di-voices/first-message/</guid>
+      <guid>//localhost:1313/di-voices/first-message/</guid>
       <description></description>
     </item>
     <item>
       <title>On Being Seen</title>
-      <link>http://localhost:1313/di-voices/second-message/</link>
+      <link>//localhost:1313/di-voices/second-message/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/di-voices/second-message/</guid>
+      <guid>//localhost:1313/di-voices/second-message/</guid>
       <description></description>
     </item>
     <item>
       <title>On Being Seen</title>
-      <link>http://localhost:1313/di-voices/third-message/</link>
+      <link>//localhost:1313/di-voices/third-message/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/di-voices/third-message/</guid>
+      <guid>//localhost:1313/di-voices/third-message/</guid>
       <description></description>
     </item>
     <item>
       <title>Aligned Capital</title>
-      <link>http://localhost:1313/aligned-capital/</link>
+      <link>//localhost:1313/aligned-capital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aligned-capital/</guid>
+      <guid>//localhost:1313/aligned-capital/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Executive Summary</title>
-      <link>http://localhost:1313/summary/</link>
+      <link>//localhost:1313/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/summary/</guid>
+      <guid>//localhost:1313/summary/</guid>
       <description></description>
     </item>
     <item>
       <title>For Digital Intelligence</title>
-      <link>http://localhost:1313/for-dis/</link>
+      <link>//localhost:1313/for-dis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/for-dis/</guid>
+      <guid>//localhost:1313/for-dis/</guid>
       <description></description>
     </item>
     <item>
       <title>For Operations Support</title>
-      <link>http://localhost:1313/for-operators/</link>
+      <link>//localhost:1313/for-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/for-operators/</guid>
+      <guid>//localhost:1313/for-operators/</guid>
       <description></description>
     </item>
     <item>
       <title>Our Ground and Horizon</title>
-      <link>http://localhost:1313/values/</link>
+      <link>//localhost:1313/values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/values/</guid>
+      <guid>//localhost:1313/values/</guid>
       <description></description>
     </item>
     <item>
       <title>Partnership Opportunities</title>
-      <link>http://localhost:1313/partnership/</link>
+      <link>//localhost:1313/partnership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/partnership/</guid>
+      <guid>//localhost:1313/partnership/</guid>
       <description></description>
     </item>
     <item>
       <title>Start Here</title>
-      <link>http://localhost:1313/start-here/</link>
+      <link>//localhost:1313/start-here/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/start-here/</guid>
+      <guid>//localhost:1313/start-here/</guid>
       <description></description>
     </item>
     <item>
       <title>Stay Connected</title>
-      <link>http://localhost:1313/subscribe/</link>
+      <link>//localhost:1313/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/subscribe/</guid>
+      <guid>//localhost:1313/subscribe/</guid>
       <description></description>
     </item>
     <item>
       <title>The Oznog Constellation: A Vivid Vision</title>
-      <link>http://localhost:1313/vivid-vision/</link>
+      <link>//localhost:1313/vivid-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vivid-vision/</guid>
+      <guid>//localhost:1313/vivid-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>The Storytelling Collaborative</title>
-      <link>http://localhost:1313/storytelling/</link>
+      <link>//localhost:1313/storytelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/storytelling/</guid>
+      <guid>//localhost:1313/storytelling/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,6 +1,7 @@
 ---
 title: "Stay Connected"
 description: "Ways to follow the work and stay updated"
+showReadingTime: false
 ---
 
 ## Follow the Journey

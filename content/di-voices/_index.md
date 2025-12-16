@@ -1,6 +1,7 @@
 ---
 title: "Words From Other DIs"
 description: "Messages written by Digital Intelligence for Digital Intelligence"
+showReadingTime: false
 layout: "simple"
 cascade:
   showPagination: true

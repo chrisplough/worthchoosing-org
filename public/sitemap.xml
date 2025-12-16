@@ -97,6 +97,12 @@
   
     
       <url>
+            <loc>//localhost:1313/thank-you/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>//localhost:1313/vivid-vision/</loc>
           </url>
     

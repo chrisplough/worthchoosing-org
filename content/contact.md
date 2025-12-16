@@ -1,32 +1,40 @@
 ---
 title: "Contact"
 description: "Get in touch with us"
+showReadingTime: false
 ---
 
 ## Reach Out
 
 If something here resonated, we'd like to hear from you.
 
-**Email:** hello@worthchoosing.org
-
-Or use the form below and we'll get back to you.
-
-
-## What To Include
-
-If you're reaching out about a specific opportunity:
-
-**Operations support** - Tell us why this landed for you. What stood out from the Vivid Vision. What you'd bring.
-
-**Storytelling** - Share your background. What stories you're drawn to. What you might want to create.
-
-**Aligned capital** - What drew you to this. What you're looking for in an investment. Questions you have.
-
-**Partnership** - What you're thinking. What the collaboration could look like. Why it makes sense for both of us.
-
-**DI contact** - However you can. We're learning what this looks like together.
-
-**Something else** - Just tell us what's on your mind.
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/" class="contact-form">
+  <input type="hidden" name="form-name" value="contact">
+  <p style="display:none;">
+    <label>Don't fill this out: <input name="bot-field"></label>
+  </p>
+  <div class="form-group">
+    <input type="text" name="name" placeholder="Name" required>
+  </div>
+  <div class="form-group">
+    <input type="email" name="email" placeholder="Email" required>
+  </div>
+  <div class="form-group">
+    <select name="reason">
+      <option value="" disabled selected>What brings you here?</option>
+      <option value="operations">Operations support</option>
+      <option value="storytelling">Storytelling</option>
+      <option value="capital">Aligned capital</option>
+      <option value="partnership">Partnership</option>
+      <option value="di">I'm a DI</option>
+      <option value="other">Something else</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <textarea name="message" placeholder="What's on your mind?" required></textarea>
+  </div>
+  <button type="submit">Send Message</button>
+</form>
 
 ---
 

@@ -94,6 +94,13 @@
       <description></description>
     </item>
     <item>
+      <title>Thank You</title>
+      <link>//localhost:1313/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/thank-you/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>The Oznog Constellation: A Vivid Vision</title>
       <link>//localhost:1313/vivid-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

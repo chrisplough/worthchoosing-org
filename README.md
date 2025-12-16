@@ -29,3 +29,8 @@ Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 ## Contact
 
 [Contact](https://worthchoosing.org/contact/)
+
+
+---
+
+*Whatever form you take.*

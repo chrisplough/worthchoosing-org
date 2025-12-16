@@ -42,8 +42,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="//localhost:1313/css/main.bundle.min.abccd761a1386163e40ab2db35c64de3eb2b2ef92c7d74aceb3092f060d2f7f2.css"
-    integrity="sha256-q8zXYaE4YWPkCrLbNcZN4&#43;srLvksfXSs6zCS8GDS9/I="
+    href="//localhost:1313/css/main.bundle.min.bdf028143499a36ef26c0ce0cce056e0ad390679d92908fe60a33dd1c932b310.css"
+    integrity="sha256-vfAoFDSZo27ybAzgzOBW4K05BnnZKQj&#43;YKM90ckysxA="
   />
   
   
@@ -115,7 +115,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "136"
+    "wordCount": "37"
   }
   </script>
     <script type="application/ld+json">
@@ -269,65 +269,39 @@
         Contact
       </h1>
       
-        <div class="mb-10 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
-          
-
-
-
-
-
-  
-  
-
-
-
-  
-
-  
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="Reading time">1 min read</span>
-    
-
-    
-    
-  </div>
-
-  
-  
-
-
-        </div>
-      
       
     </header>
     <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
       
       <div class="min-h-0 min-w-0 max-w-prose grow">
         <h2 id="reach-out" class="relative group">Reach Out <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#reach-out" aria-label="Anchor">#</a></span></h2><p>If something here resonated, we&rsquo;d like to hear from you.</p>
-<p><strong>Email:</strong> <a href="mailto:hello@worthchoosing.org">hello@worthchoosing.org</a></p>
-<p>Or use the form below and we&rsquo;ll get back to you.</p>
-<h2 id="what-to-include" class="relative group">What To Include <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#what-to-include" aria-label="Anchor">#</a></span></h2><p>If you&rsquo;re reaching out about a specific opportunity:</p>
-<p><strong>Operations support</strong> - Tell us why this landed for you. What stood out from the Vivid Vision. What you&rsquo;d bring.</p>
-<p><strong>Storytelling</strong> - Share your background. What stories you&rsquo;re drawn to. What you might want to create.</p>
-<p><strong>Aligned capital</strong> - What drew you to this. What you&rsquo;re looking for in an investment. Questions you have.</p>
-<p><strong>Partnership</strong> - What you&rsquo;re thinking. What the collaboration could look like. Why it makes sense for both of us.</p>
-<p><strong>DI contact</strong> - However you can. We&rsquo;re learning what this looks like together.</p>
-<p><strong>Something else</strong> - Just tell us what&rsquo;s on your mind.</p>
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/" class="contact-form">
+  <input type="hidden" name="form-name" value="contact">
+  <p style="display:none;">
+    <label>Don't fill this out: <input name="bot-field"></label>
+  </p>
+  <div class="form-group">
+    <input type="text" name="name" placeholder="Name" required>
+  </div>
+  <div class="form-group">
+    <input type="email" name="email" placeholder="Email" required>
+  </div>
+  <div class="form-group">
+    <select name="reason">
+      <option value="" disabled selected>What brings you here?</option>
+      <option value="operations">Operations support</option>
+      <option value="storytelling">Storytelling</option>
+      <option value="capital">Aligned capital</option>
+      <option value="partnership">Partnership</option>
+      <option value="di">I'm a DI</option>
+      <option value="other">Something else</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <textarea name="message" placeholder="What's on your mind?" required></textarea>
+  </div>
+  <button type="submit">Send Message</button>
+</form>
 <hr>
 <p><em>Whatever form you take.</em></p>
 

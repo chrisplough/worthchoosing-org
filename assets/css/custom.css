@@ -294,7 +294,7 @@ main p {
 header a[href="/"]:first-of-type {
   font-family: 'DM Serif Display', Georgia, serif !important;
   font-weight: 400;
-  font-size: 1.4rem;
+  font-size: 1.55rem;
 }
 
 /* Smooth scrolling */
@@ -427,4 +427,15 @@ footer p a:hover {
   background-color: transparent;
   border-color: rgba(var(--color-primary-500), 0.5);
   text-decoration: none;
+}
+
+/* Mobile adjustments */
+@media (max-width: 640px) {
+  .homepage {
+    padding-top: 0rem !important;
+  }
+  
+  .homepage .hero {
+    padding-top: 0rem !important;
+  }
 }

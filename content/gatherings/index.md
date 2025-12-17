@@ -59,7 +59,7 @@ I've spent 20 years in technology, 15 in consciousness work, 15 in storytelling,
 
 If this resonates, I want to hear from you.
 
-[Express Interest](/gatherings/interest/)
+[Express Interest](/gatherings/interest-form/)
 
 This home also hosts residencies and incubation work. If that sparks something, [reach out](/contact/).
 

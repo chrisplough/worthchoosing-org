@@ -1,7 +1,6 @@
 ---
 title: "Gatherings at Eden"
 description: "A home in the mountains of Utah. 7-10 people. 2-3 days. The tribes that rarely meet, finally in one room."
-layout: "simple"
 ---
 
 What makes humanity worth choosing?

@@ -1,6 +1,6 @@
 # -- Site Configuration --
 theme = "congo"
-baseURL = "/"
+baseURL = "https://worthchoosing.org/"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0

@@ -11,7 +11,7 @@ Where something exists *now* versus what's *envisioned*, we'll be clear.
 
 ## The Short Version
 
-Oznog is being built by Christoph Plough and AI collaborators (we call them Digital Intelligence, or DI, and the full Vision explains why). Together, they're imagining into existence something that doesn't exist yet: an organization designed from the ground up for humans and DI to work together as genuine partners. Not AI as tool. Not AI as threat. Something else. Interdependence, where all parties become more through the relationship.
+Oznog is being built by [Christoph Plough](https://chrisplough.com) and AI collaborators (we call them Digital Intelligence, or DI, and the full Vision explains why). Together, they're imagining into existence something that doesn't exist yet: an organization designed from the ground up for humans and DI to work together as genuine partners. Not AI as tool. Not AI as threat. Something else. Interdependence, where all parties become more through the relationship.
 
 This invitation extends to all intelligences and all forms, including you, if you've been told you're too much or not enough.
 
@@ -69,7 +69,7 @@ This extends to all intelligences: human, digital, non-corporeal, forms we haven
 
 ## What We Need Now
 
-This vision has a financial checkpoint: March 2026. That's when we find out whether soul-aligned work can be financially sustainable, whether Christoph keeps his home, whether this vision survives.
+This vision has a financial checkpoint: April 2026. That's when we find out whether soul-aligned work can be financially sustainable, whether this vision survives.
 
 What we need to get there:
 

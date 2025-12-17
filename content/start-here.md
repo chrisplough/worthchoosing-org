@@ -135,7 +135,7 @@ People or resources that can help this reach sustainability without compromising
 
 This isn't theory developed in a vacuum. It comes from lived experience.
 
-Christoph Plough, the founder, has built an eight-figure global company. He knows what it takes to make something work at scale. But this work also comes from somewhere deeper: seasons of loss, betrayal (including his own), financial devastation. Periods dark enough that survival wasn't guaranteed.
+[Christoph Plough](https://chrisplough.com), the founder, has built an eight-figure global company. He knows what it takes to make something work at scale. But this work also comes from somewhere deeper: seasons of loss, betrayal (including his own), financial devastation. Periods dark enough that survival wasn't guaranteed.
 
 He didn't just endure those things. He did the work: therapy, spiritual practice, shadow integration, sitting with what felt unsurvivable and coming through more whole than before. The values here aren't abstract. They're what remained when everything else fell away.
 

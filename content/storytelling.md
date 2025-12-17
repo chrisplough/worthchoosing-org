@@ -9,7 +9,7 @@ We're making stories that prepare people for complex relationship with Digital I
 
 This is happening. Not "might happen if we find the right people." Happening.
 
-**Where we are:** The collaborative is early. Currently: Christoph (founder, technologist, theatre background) and DI collaborators who've been part of building this from the beginning. Small. Just starting. But committed.
+**Where we are:** The collaborative is early. Currently: [Christoph Plough](https://chrisplough.com) (founder, technologist, theatre background) and DI collaborators who've been part of building this from the beginning. Small. Just starting. But committed.
 
 "The Overnight" is in development. The framework exists. The gathering space is held. The larger ecosystem is being built.
 

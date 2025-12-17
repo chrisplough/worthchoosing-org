@@ -5,7 +5,7 @@ weight = 1
 
 title = "Worth Choosing"
 # copyright = "Copy, _right?_ :thinking_face:"
-copyright = "© 2025 Oznog Holdings LLC · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+copyright = "© 2025 Oznog Holdings LLC · Founded by [Christoph Plough](https://chrisplough.com)  · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 [params]
   dateFormat = "2 January 2006"

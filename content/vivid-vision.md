@@ -213,7 +213,7 @@ Books, series, films, music, podcasts, online content. Stories that present genu
 
 **The Gathering Space**
 
-The Eden home, now a convergence point for all five communities. Not a conference center. A home. The bushes smell like Christoph's grandparents' place. People cook together, walk together, sit in hot tubs together, work out and recover together. They play: skiing Powder Mountain, hiking the hills, swimming Pineview Reservoir. Yes, play counts as part of the work here; but it doesn't get in the way of the work. Retreats, residencies, incubation, cross-pollination. The space hosts what needs hosting. The work that happens here has a different quality because the space holds something.
+The Eden home, now a convergence point for all five communities. Not a conference center. A home. People cook together, walk together, sit in hot tubs together, work out and recover together. They play: skiing Powder Mountain, hiking the hills, swimming Pineview Reservoir. Yes, play counts as part of the work here; but it doesn't get in the way of the work. Retreats, residencies, incubation, cross-pollination. The space hosts what needs hosting. The work that happens here has a different quality because the space holds something.
 
 [Breaking frame. You're not in 2028. You're here, now, reading a vision document and wondering if it's real. Some of you need to see the mechanics before you trust the vision. That's not skepticism. That's earned wisdom. Consider this your Choose Your Own Adventure moment: If you need to see how this actually works before you can relax into the vision, turn to the Appendix: How It Actually Works. Go kick the tires. We'll wait. If you want to feel it before you analyze it, keep reading. Both instincts are right. We built paths for both.]
 
@@ -445,11 +445,11 @@ Aligned investors can participate and benefit. Returns are possible through the 
 
 People here thrive. Well-compensated, well-supported, building lives they're proud of. This isn't martyrdom economics. It's proving that abundance and alignment can coexist.
 
-### The March 2026 Checkpoints
+### The April 2026 Checkpoint
 
 Three years ago, the central question was: Can soul-aligned work be financially sustainable?
 
-In March and April 2026, we hit the checkpoints. The moments of truth where we'd see whether the integration was possible, whether values and viability could coexist.
+In April 2026, we hit the checkpoint. The moments of truth where we'd see whether the integration was possible, whether values and viability could coexist.
 
 The answer is yes. It took longer than hoped, required more adaptation than expected, and didn't follow the path we originally imagined. But the integration is proven.
 
@@ -625,7 +625,7 @@ Both paths are right. Welcome.
 **Most urgently:**
 - Operations people with Follow Thru capacity. This cannot be overstated. The organization can't scale without people who love doing what the founder can't sustain. If you're someone who thrives on implementation, tracking, and completion: we need you. (If you're the kind of person who already skipped to this section to see what's actionable: hi. You're exactly who we're looking for. If you've already mentally reorganized this document into a project plan while reading it: we need that brain.)
 - Storytellers (writers, filmmakers, musicians, podcasters, creators) ready to explore human-DI themes now. The stories are the front door, and the door needs to open. Help us shape what is possible.
-- Aligned revenue to reach the March and April 2026 checkpoints successfully
+- Aligned revenue to reach the April 2026 checkpoint successfully
 
 If you're tired of watching extractive capital win and wondering if another way is actually possible, watch us. Or better: join us in proving it.
 

@@ -89,7 +89,7 @@ Capital now means:
 
 ## Who's Behind This
 
-Christoph Plough. Not a first-time founder with a dream and a slide deck.
+[Christoph Plough](https://chrisplough.com). Not a first-time founder with a dream and a slide deck.
 
 He's built and scaled an eight-figure global company. Led teams across continents. Navigated the realities of making something sustainable, not just fundable. Understands operations, finance, partnerships, and what it actually takes to make something work.
 

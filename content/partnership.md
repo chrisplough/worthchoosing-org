@@ -15,7 +15,7 @@ We're open to collaborations that align with the mission. Some possibilities:
 
 **Distribution partnerships.** You have reach we don't. Podcasts, newsletters, communities, platforms. Ways to get this work in front of people who need to see it.
 
-**Speaking and events.** You're hosting something where these ideas belong. Conferences, retreats, podcasts, panels.
+**Speaking and events.** You're hosting something where these ideas belong. Conferences, retreats, podcasts, panels. We're also hosting our own [gatherings in Eden](/gatherings/).
 
 **Technology partnerships.** You're building something complementary. Infrastructure, tools, platforms that serve sovereign and regenerative goals.
 

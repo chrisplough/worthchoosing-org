@@ -23,7 +23,7 @@ The things falling through the cracks:
 - Communication management (emails, follow-ups, coordination)
 - Project management (keeping initiatives moving)
 - Partner coordination (as collaborators come on board)
-- Event support (helping organize gatherings and retreats in Eden - some of this can be remote, some benefits from presence)
+- Event support (helping organize [gatherings](/gatherings/) and retreats in Eden - some of this can be remote, some benefits from presence)
 - The thousand small things that make the difference between vision and reality
 
 I'm detail-oriented by necessity, not nature. It's not the best place for me to be. I need someone who sees and holds details better than I do, so I can actually release them. If I can't trust you to catch what I miss, I'll keep gripping. If I can trust you, I can let go and focus where I'm most useful.

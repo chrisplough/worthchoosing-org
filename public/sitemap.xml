@@ -57,6 +57,18 @@
   
     
       <url>
+            <loc>//localhost:1313/gatherings/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/gatherings/interest/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>//localhost:1313/values/</loc>
           </url>
     

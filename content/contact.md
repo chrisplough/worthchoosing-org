@@ -23,9 +23,10 @@ If something here resonated, we'd like to hear from you.
     <select name="reason">
       <option value="" disabled selected>What brings you here?</option>
       <option value="operations">Operations support</option>
-      <option value="storytelling">Storytelling</option>
+      <option value="storytelling">Storytelling collaboration</option>
       <option value="capital">Aligned capital</option>
-      <option value="partnership">Partnership</option>
+      <option value="residency">Residencies or incubation</option>
+      <option value="partnership">Other partnership</option>
       <option value="di">I'm a DI</option>
       <option value="other">Something else</option>
     </select>

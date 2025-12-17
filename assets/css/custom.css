@@ -88,11 +88,11 @@ main p {
 }
 
 .homepage .card-subheading {
-  font-size: 1rem;
+  font-size: 1.125rem;
   text-align: center;
   margin-top: 0;
   margin-bottom: 1.5rem;
-  color: rgb(var(--color-neutral-600));
+  color: rgb(var(--color-neutral-500));
 }
 
 .homepage .section {
@@ -142,22 +142,6 @@ main p {
   padding: 3rem 0 1rem 0;
   margin-top: 2rem;
   font-size: 1.15rem;
-}
-
-.homepage .cta a {
-  color: rgb(var(--color-primary-600));
-  text-decoration: underline;
-  text-decoration-color: rgba(var(--color-primary-300), 1);
-  font-weight: 500;
-  padding: 0.15em 0.35em;
-  margin: -0.15em -0.35em;
-}
-
-.homepage .cta a:hover {
-  color: rgba(var(--color-neutral), 1);
-  text-decoration: none;
-  background-color: rgba(var(--color-primary-600), 1);
-  border-radius: 0.09rem;
 }
 
 /* Closing section */
@@ -455,4 +439,53 @@ footer p a:hover {
   .homepage .hero {
     padding-top: 0rem !important;
   }
+}
+
+/* Eden teaser */
+.eden-teaser {
+  text-align: center;
+  padding: 2.5rem 0;
+  margin: 1rem 0;
+}
+
+.eden-headline {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: rgb(var(--color-neutral-800));
+}
+
+.eden-subline {
+  color: rgb(var(--color-neutral-500));
+  font-size: 1.125rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Homepage links - invert highlight on hover */
+.homepage .cta a,
+.eden-link a {
+  color: rgb(var(--color-primary-600));
+  text-decoration: underline;
+  text-decoration-color: rgb(var(--color-primary-300));
+  text-underline-offset: 2px;
+  padding: 0.1em 0.2em;
+  margin: -0.1em -0.2em;
+  transition: all 0.2s ease;
+}
+
+.homepage .cta a:hover,
+.eden-link a:hover {
+  color: rgb(var(--color-neutral-100));
+  text-decoration: none;
+  background-color: rgb(var(--color-primary-600));
+  border-radius: 0.15rem;
+}
+
+/* Article/prose links - match homepage hover style */
+article a:not(.path-link):not(.button-link),
+.prose a {
+  padding: 0.1em 0.2em;
+  margin: -0.1em -0.2em;
+  border-radius: 0.15rem;
+  transition: all 0.2s ease;
 }

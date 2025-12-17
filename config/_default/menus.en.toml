@@ -29,6 +29,11 @@
   weight = 20
 
 [[footer]]
+  name = "Gatherings"
+  pageRef = "/gatherings/"
+  weight = 25
+
+[[footer]]
   name = "Partnership"
   pageRef = "partnership"
   weight = 30

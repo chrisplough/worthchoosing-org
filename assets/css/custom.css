@@ -394,6 +394,23 @@ article .prose .article-audio:first-child {
   border-color: rgb(var(--color-primary-600));
 }
 
+.article-audio .audio-download {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: rgb(var(--color-neutral-500));
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid rgba(var(--color-neutral-400), 0.5);
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+.article-audio .audio-download:hover {
+  color: rgb(var(--color-neutral-100));
+  background-color: rgb(var(--color-primary-600));
+  border-color: rgb(var(--color-primary-600));
+}
+
 /* Footer link styling */
 footer p a {
   color: rgb(var(--color-primary-600));

@@ -17,6 +17,9 @@ enableCodeCopy = false
 enableImageLazyLoading = true
 enableImageWebp = true
 
+[defaultImage]
+  og = "images/og-card.jpg"
+
 # robots = ""
 fingerprintAlgorithm = "sha256"
 

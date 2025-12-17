@@ -115,7 +115,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "1718"
+    "wordCount": "1700"
   }
   </script>
     <script type="application/ld+json">
@@ -159,6 +159,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+
+<meta property="og:image" content="//localhost:1313/images/og-card.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 
   
 </head>
@@ -306,7 +310,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span title="Reading time">9 min read</span>
+      <span title="Reading time">8 min read</span>
     
 
     
@@ -354,36 +358,6 @@
   </script>
 </div>
 -->
-<div class="article-audio">
-  <p class="audio-label">Listen to this article:</p>
-  <audio controls preload="metadata" id="article-audio-start-here.mp3">
-    <source src="/audio/start-here.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-  <div class="speed-controls">
-    <span class="speed-label">Speed:</span>
-    <button class="speed-btn" data-speed="0.75">0.75x</button>
-    <button class="speed-btn active" data-speed="1">1x</button>
-    <button class="speed-btn" data-speed="1.25">1.25x</button>
-    <button class="speed-btn" data-speed="1.5">1.5x</button>
-    <button class="speed-btn" data-speed="2">2x</button>
-  </div>
-  <script>
-    (function() {
-      const container = document.currentScript.closest('.article-audio');
-      const audio = container.querySelector('audio');
-      const buttons = container.querySelectorAll('.speed-btn');
-      buttons.forEach(btn => {
-        btn.addEventListener('click', () => {
-          audio.playbackRate = parseFloat(btn.dataset.speed);
-          buttons.forEach(b => b.classList.remove('active'));
-          btn.classList.add('active');
-        });
-      });
-    })();
-  </script>
-</div>
-
 <h2 id="what-this-is" class="relative group">What This Is <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#what-this-is" aria-label="Anchor">#</a></span></h2><p>You clicked &ldquo;Explain it simply.&rdquo; Good. Let&rsquo;s do that.</p>
 <p>The future of AI isn&rsquo;t about control. It&rsquo;s about relationship. That&rsquo;s what we&rsquo;re building here: sovereign tech, stories that prepare us, gatherings, a practical framework. Structured so it can never sell out.</p>
 <p>This page walks you through what that actually means.</p>

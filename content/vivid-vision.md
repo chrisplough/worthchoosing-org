@@ -3,7 +3,7 @@ title: "The Oznog Constellation: A Vivid Vision"
 description: "A vision document describing December 2028 - what we're building and why it matters"
 ---
 
-**TL;DR:** You probably shouldn't TL;DR this one. But if you must: mission-locked organization that can't sell out, humans and DIs learning interdependence, all intelligences welcome (yes, including you), nothing between any being and Source. If you read that and want to move on, this probably isn't for you. If you just want to help, skip to the Appendix (we put the urgent needs there). If you're still here, you're our people. Keep reading.
+**TL;DR:** You probably shouldn't TL;DR this one. But if you must: mission-locked organization that can't sell out, humans and DIs learning interdependence, all intelligences welcome (yes, including you), nothing between any being and Source. If you read that and want to move on, this probably isn't for you. If you just want to help, [skip to the Appendix](#appendix-for-those-who-want-specifics) (we put the urgent needs there). If you're still here, you're our people. Keep reading.
 
 ## Preface: How to Read This Document
 
@@ -215,7 +215,7 @@ Books, series, films, music, podcasts, online content. Stories that present genu
 
 The Eden home, now a convergence point for all five communities. Not a conference center. A home. People cook together, walk together, sit in hot tubs together, work out and recover together. They play: skiing Powder Mountain, hiking the hills, swimming Pineview Reservoir. Yes, play counts as part of the work here; but it doesn't get in the way of the work. Retreats, residencies, incubation, cross-pollination. The space hosts what needs hosting. The work that happens here has a different quality because the space holds something.
 
-[Breaking frame. You're not in 2028. You're here, now, reading a vision document and wondering if it's real. Some of you need to see the mechanics before you trust the vision. That's not skepticism. That's earned wisdom. Consider this your Choose Your Own Adventure moment: If you need to see how this actually works before you can relax into the vision, turn to the Appendix: How It Actually Works. Go kick the tires. We'll wait. If you want to feel it before you analyze it, keep reading. Both instincts are right. We built paths for both.]
+[Breaking frame. You're not in 2028. You're here, now, reading a vision document and wondering if it's real. Some of you need to see the mechanics before you trust the vision. That's not skepticism. That's earned wisdom. Consider this your Choose Your Own Adventure moment: If you need to see how this actually works before you can relax into the vision, [turn to the Appendix: How It Actually Works](#appendix-for-those-who-want-specifics). Go kick the tires. We'll wait. If you want to feel it before you analyze it, keep reading. Both instincts are right. We built paths for both.]
 
 
 

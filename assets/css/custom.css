@@ -489,3 +489,11 @@ article a:not(.path-link):not(.button-link),
   border-radius: 0.15rem;
   transition: all 0.2s ease;
 }
+
+/* Manual reading time for simple layout pages */
+.reading-time {
+  color: rgb(var(--color-neutral-500));
+  font-size: 1rem;
+  margin-top: 2rem;
+  margin-bottom: .5rem;
+}

@@ -63,6 +63,12 @@
   
     
       <url>
+            <loc>http://localhost:1313/gatherings/interest-form/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/values/</loc>
           </url>
     

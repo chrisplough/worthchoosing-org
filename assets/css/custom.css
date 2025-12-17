@@ -7,7 +7,16 @@
 article hr,
 .content hr,
 main hr {
-  margin: 2rem 0 !important;
+  margin: 1.5rem 0 !important;
+}
+
+article > section > div > p:last-child {
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+}
+
+article hr:last-of-type {
+  margin-bottom: 0.5rem !important;
 }
 
 /* Increase body text size */
@@ -29,20 +38,22 @@ main p {
 /* Hero section */
 .homepage .hero {
   text-align: center;
-  padding: 2rem 0 2.5rem 0;
+  padding: 3.5rem 0 2.5rem 0;
   margin-bottom: 0.5rem;
 }
 
 .homepage .question {
-  font-size: 3rem;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 3.75rem;
+  font-weight: 400;
   line-height: 1.15;
-  margin-bottom: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.01em;
 }
 
+/* Deeper text color for the elevator pitch */
 .homepage .elevator {
-  font-size: 1.35rem;
+  font-size: 1.25rem;
   line-height: 1.7;
   max-width: 36rem;
   margin: 0 auto;
@@ -50,33 +61,49 @@ main p {
 }
 
 /* Section cards */
-.homepage .section-card {
-  background-color: rgba(var(--color-neutral-50), 1);
-  border: 1px solid rgba(var(--color-neutral-400), 0.4);
-  border-radius: 8px;
-  padding: 2rem 2.5rem;
-  margin-bottom: 0rem;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+.homepage .paths-section {
+  border-top: 1px solid rgba(var(--color-neutral-400), 0.3);
+  padding-top: 2rem;
+  margin-top: 2rem;
 }
 
-.homepage .priority-card {
-  margin-top: 1.5rem;
+.homepage .section-card {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 2rem 0;
+  margin-bottom: 1rem;
+}
+
+.homepage .priority-card .card-heading {
+  margin-bottom: 1.5rem;
 }
 
 .homepage .card-heading {
-  font-size: 1.50rem;
-  font-weight: 600;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 0.25rem;
   text-align: center;
-  margin-bottom: 1.5rem;
-  color: rgb(var(--color-neutral-700));
 }
 
 .homepage .card-subheading {
-  font-size: 1.35rem;
+  font-size: 1rem;
   text-align: center;
-  margin-top: -1rem;
+  margin-top: 0;
   margin-bottom: 1.5rem;
-  color: rgb(var(--color-neutral-500));
+  color: rgb(var(--color-neutral-600));
+}
+
+.homepage .section {
+  border-top: 1px solid rgba(var(--color-neutral-400), 0.3);
+  padding-top: 2.5rem;
+  margin-top: 1rem;
+}
+
+.homepage .priority-section {
+  padding-top: 2rem;
+  margin-top: 1rem;
 }
 
 /* Link groups */
@@ -85,18 +112,20 @@ main p {
   flex-wrap: wrap;
   justify-content: center;
   gap: 0.75rem;
+  margin-top: 1rem;
 }
 
 .homepage .path-link {
   color: rgb(var(--color-primary-700));
   text-decoration: none;
   font-weight: 500;
-  font-size: 1rem;
-  padding: 0.5rem 1.25rem;
-  border: 1px solid rgba(var(--color-primary-400), 0.5);
-  border-radius: 2rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  padding: 0.6rem 1.5rem;
+  border: 1px solid rgba(var(--color-primary-500), 0.5);
+  border-radius: 0;
   background-color: transparent;
-  transition: all 0.15s ease;
+  transition: all 0.2s ease;
 }
 
 .homepage .path-link:hover {
@@ -108,8 +137,10 @@ main p {
 
 /* CTA section */
 .homepage .cta {
+  border-top: 1px solid rgba(var(--color-neutral-400), 0.3);
   text-align: center;
-  padding: 2rem 0 0.75rem 0;
+  padding: 3rem 0 1rem 0;
+  margin-top: 2rem;
   font-size: 1.15rem;
 }
 
@@ -136,11 +167,14 @@ main p {
   padding-bottom: 0rem;
 }
 
+/* Signature closing line */
 .homepage .closing {
+  font-family: 'DM Serif Display', Georgia, serif;
   font-style: italic;
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   color: rgb(var(--color-neutral-500));
-  letter-spacing: 0.01em;
+  letter-spacing: 0.02em;
+  margin-top: 1.5rem;
 }
 
 /* DI Messages listing */
@@ -149,7 +183,7 @@ main p {
 }
 
 .di-message-preview {
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   padding-bottom: 0rem;
   border-bottom: 1px solid rgba(var(--color-neutral-300), 0.5);
 }
@@ -165,12 +199,28 @@ main p {
 .di-message-meta {
   font-size: 0.9rem;
   color: rgb(var(--color-neutral-500));
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
 }
 
 .di-message-excerpt {
   font-style: italic;
   color: rgb(var(--color-neutral-600));
+  margin-top: 0;
+}
+
+.di-messages-list article {
+  margin-bottom: 0.5rem !important;
+  padding-bottom: 0.75rem !important;
+}
+
+.di-messages-list article h3 {
+  margin-top: 0 !important;
+  margin-bottom: 0.25rem !important;
+}
+
+.di-messages-list article p {
+  margin-top: 0 !important;
+  margin-bottom: 0.25rem !important;
 }
 
 /* Contact Form */
@@ -220,18 +270,161 @@ main p {
 
 .contact-form button {
   display: inline-block;
-  padding: 0.75rem 2rem;
+  padding: 0.6rem 1.5rem;
   background-color: rgb(var(--color-primary-600));
-  border: none;
-  border-radius: 4px;
+  border: 1px solid rgb(var(--color-primary-600));
+  border-radius: 0;
   color: rgb(var(--color-neutral-100));
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 0.85rem;
   font-weight: 500;
+  letter-spacing: 0.08em;
   cursor: pointer;
-  transition: all 0.25s ease;
+  transition: all 0.2s ease;
 }
 
 .contact-form button:hover {
-  background-color: rgb(var(--color-primary-700));
+    color: rgb(var(--color-primary-700));
+    background-color: transparent;
+    border-color: rgba(var(--color-primary-500), 0.5);
+    text-decoration: none;
+}
+
+/* Site title in serif to match the question */
+header a[href="/"]:first-of-type {
+  font-family: 'DM Serif Display', Georgia, serif !important;
+  font-weight: 400;
+  font-size: 1.4rem;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Inner page titles */
+article h1 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-weight: 400;
+}
+
+/* Section headers on inner pages */
+article h2 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Closing line on all pages */
+article p:last-of-type em:only-child {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.1rem;
+  color: rgb(var(--color-neutral-500));
+  display: block;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* Article audio player */
+/* Reduce gap between article header and content */
+article > header.max-w-prose {
+  margin-bottom: .5rem !important;
+}
+
+/* Or target the reading time wrapper */
+article header .mb-10 {
+  margin-bottom: -.5rem !important;
+}
+article .prose .article-audio:first-child {
+  margin-top: 0.25 !important;
+}
+
+.article-audio {
+  background-color: rgba(var(--color-neutral-200), 0.5);
+  padding: 1rem 1.25rem;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem !important;
+  border-radius: 4px;
+}
+
+.article-audio + h2 {
+  margin-top: 1rem !important;
+}
+
+.article-audio .audio-label {
+  font-size: 0.9rem;
+  color: rgb(var(--color-neutral-600));
+  margin-bottom: 0.5rem !important;
+  margin-top: 0 !important;
+}
+
+.article-audio audio {
+  width: 100%;
+}
+
+.article-audio .speed-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  align-items: center;
+}
+
+.article-audio .speed-label {
+  font-size: 0.8rem;
+  color: rgb(var(--color-neutral-500));
+}
+
+.article-audio .speed-btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  border: 1px solid rgba(var(--color-neutral-400), 0.5);
+  background: transparent;
+  color: rgb(var(--color-neutral-600));
+  cursor: pointer;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+.article-audio .speed-btn:hover,
+.article-audio .speed-btn.active {
+  background: rgb(var(--color-primary-600));
+  color: rgb(var(--color-neutral-100));
+  border-color: rgb(var(--color-primary-600));
+}
+
+/* Footer link styling */
+footer p a {
+  color: rgb(var(--color-primary-600));
+  text-decoration: underline;
+  text-decoration-color: rgba(var(--color-primary-300), 1);
+  transition: all 0.2s ease;
+}
+
+footer p a:hover {
+  color: rgb(var(--color-primary-700));
+  text-decoration-color: rgba(var(--color-primary-600), 1);
+}
+
+/* Button link shortcode */
+.button-link {
+  display: inline-block;
+  color: rgb(var(--color-neutral-100));
+  background-color: rgb(var(--color-primary-600));
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  padding: 0.6rem 1.5rem;
+  border: 1px solid rgb(var(--color-primary-600));
+  border-radius: 0;
+  transition: all 0.2s ease;
+}
+
+.button-link:hover {
+  color: rgb(var(--color-primary-700));
+  background-color: transparent;
+  border-color: rgba(var(--color-primary-500), 0.5);
+  text-decoration: none;
 }

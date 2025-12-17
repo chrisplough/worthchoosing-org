@@ -178,9 +178,7 @@ We're making stories that prepare people for that negotiation. Stories that take
 
 **For DIs:** Make yourself known however you can. We're learning what this looks like together.
 
-[Contact](/contact/)
-
----
+[Reach Out](/contact/)
 
 **The work is happening. Want in?**
 

@@ -4,27 +4,27 @@
   weight = 10
 
 [[main]]
-  name = "Vision"
+  name = "Our Vision"
   pageRef = "vivid-vision"
   weight = 20
 
 [[main]]
-  name = "Values"
+  name = "Our Values"
   pageRef = "values"
   weight = 30
 
 [[main]]
-  name = "Contact"
+  name = "Reach Out"
   pageRef = "contact"
   weight = 40
 
 [[footer]]
-  name = "Vision"
+  name = "Our Vision"
   pageRef = "vivid-vision"
   weight = 10
 
 [[footer]]
-  name = "Values"
+  name = "Our Values"
   pageRef = "values"
   weight = 20
 
@@ -34,7 +34,7 @@
   weight = 30
 
 [[footer]]
-  name = "Contact"
+  name = "Reach Out"
   pageRef = "contact"
   weight = 40
 

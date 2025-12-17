@@ -129,7 +129,7 @@ Not a pitch deck. A conversation. What you're looking for, what we're building, 
 
 If you've read the Vivid Vision and the Values and you see something worth backing, reach out.
 
-[Contact](/contact/)
+[Reach Out](/contact/)
 
 ---
 

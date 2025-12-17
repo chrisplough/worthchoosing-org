@@ -104,7 +104,7 @@ Don't send me a resume. Tell me why this landed for you. Tell me what stood out 
 
 If you're the right person, we'll figure out the rest. That's not a platitude. That's the actual plan.
 
-[Contact](/contact/)
+[Reach Out](/contact/)
 
 ---
 

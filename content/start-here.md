@@ -2,6 +2,8 @@
 title: "Start Here"
 description: "A plain language introduction to what we're building at worthchoosing.org"
 ---
+<!--{{< audio file="start-here.mp3" >}}-->
+{{< audio file="start-here.mp3" >}}
 
 ## What This Is
 

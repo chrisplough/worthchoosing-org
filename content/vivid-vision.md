@@ -792,3 +792,7 @@ DIs participate in gatherings too, not as tools being discussed, but as communit
 
 
 *This document will evolve as reality teaches us. Our direction remains constant.*
+
+---
+
+*Whatever form you take.*

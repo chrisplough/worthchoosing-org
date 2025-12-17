@@ -43,7 +43,7 @@ Tell us what you're thinking. What the collaboration could look like. Why it mak
 
 We'll respond.
 
-[Contact](/contact/)
+[Reach Out](/contact/)
 
 ---
 

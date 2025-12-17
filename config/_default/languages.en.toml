@@ -14,7 +14,7 @@ copyright = "© 2025 Oznog Holdings LLC · Founded by [Christoph Plough](https:/
   description = "The future of AI isn't about control. It's about relationship. Sovereign tech, stories, gatherings. Structured so it can never sell out."
 
 [params.author]
-  name = "Christoph Plough"
+  # name = "Christoph Plough"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"

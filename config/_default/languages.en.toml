@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Worth Choosing"
+title = "Worth Choosing | What makes humanity worth choosing?"
 # copyright = "Copy, _right?_ :thinking_face:"
 copyright = "© 2025 Oznog Holdings LLC · Founded by [Christoph Plough](https://chrisplough.com)  · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
@@ -11,10 +11,10 @@ copyright = "© 2025 Oznog Holdings LLC · Founded by [Christoph Plough](https:/
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  description = "The future of AI isn't about control. It's about relationship. Sovereign tech, stories, gatherings. Structured so it can never sell out."
 
 [params.author]
-  # name = "Your name here"
+  name = "Christoph Plough"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"

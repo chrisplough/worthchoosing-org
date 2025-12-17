@@ -4,7 +4,6 @@ baseURL = "/"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
-title = "Worth Choosing"
 
 [pagination]
   pagerSize = 10

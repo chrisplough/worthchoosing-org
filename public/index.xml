@@ -17,6 +17,13 @@
       <description></description>
     </item>
     <item>
+      <title>Advisory</title>
+      <link>http://localhost:1313/advisory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/advisory/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Aligned Capital</title>
       <link>http://localhost:1313/aligned-capital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

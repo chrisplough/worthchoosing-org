@@ -56,6 +56,10 @@ I've spent 20 years in technology, 15 in consciousness work, 15 in storytelling,
 
 [More about me](https://chrisplough.com/about/)
 
+## For Organizations
+
+Gatherings are for individuals. If you're an organization seeking advisory support, see [Advisory](/advisory/). Some participants discover one through the other.
+
 ## Interest
 
 If this resonates, I want to hear from you.

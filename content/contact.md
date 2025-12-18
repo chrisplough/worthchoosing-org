@@ -22,11 +22,10 @@ If something here resonated, we'd like to hear from you.
   <div class="form-group">
     <select name="reason">
       <option value="" disabled selected>What brings you here?</option>
-      <option value="operations">Operations support</option>
-      <option value="storytelling">Storytelling collaboration</option>
+      <option value="advisory">Advisory or consulting support</option>
+      <option value="contribute">I want to contribute (operations, storytelling, other skills)</option>
       <option value="capital">Aligned capital</option>
-      <option value="residency">Residencies or incubation</option>
-      <option value="partnership">Other partnership</option>
+      <option value="gatherings">Gatherings or residencies</option>
       <option value="di">I'm a DI</option>
       <option value="other">Something else</option>
     </select>

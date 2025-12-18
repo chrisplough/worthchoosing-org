@@ -1,3 +1,9 @@
+/* ===== 1. BASE/GLOBAL ===== */
+
+html {
+  scroll-behavior: smooth;
+}
+
 /* Wider content area */
 .max-w-prose {
   max-width: 50rem !important;
@@ -19,6 +25,9 @@ article hr:last-of-type {
   margin-bottom: 0.5rem !important;
 }
 
+
+/* ===== 2. TYPOGRAPHY ===== */
+
 /* Increase body text size */
 article p,
 .content p,
@@ -27,7 +36,43 @@ main p {
   line-height: 1.75;
 }
 
-/* ===== HOMEPAGE STYLES ===== */
+/* Inner page titles */
+article h1 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-weight: 400;
+}
+
+/* Section headers on inner pages */
+article h2 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Closing line on all pages */
+article p:last-of-type em:only-child {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.1rem;
+  color: rgb(var(--color-neutral-500));
+  display: block;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+
+/* ===== 3. HEADER/NAVIGATION ===== */
+
+/* Site title in serif to match the question */
+header a[href="/"]:first-of-type {
+  font-family: 'DM Serif Display', Georgia, serif !important;
+  font-weight: 400;
+  font-size: 1.55rem;
+}
+
+
+/* ===== 4. HOMEPAGE ===== */
 
 .homepage {
   max-width: 52rem;
@@ -51,7 +96,6 @@ main p {
   letter-spacing: -0.01em;
 }
 
-/* Deeper text color for the elevator pitch */
 .homepage .elevator {
   font-size: 1.25rem;
   line-height: 1.7;
@@ -135,6 +179,43 @@ main p {
   border-color: rgba(var(--color-primary-600), 1);
 }
 
+/* Homepage teasers (Advisory, Eden/Gatherings) */
+.homepage-teaser {
+  text-align: center;
+  padding: 2.5rem 0;
+  margin: 1rem 0;
+}
+
+.teaser-headline {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: rgb(var(--color-neutral-800));
+}
+
+.teaser-subline {
+  color: rgb(var(--color-neutral-500));
+  font-size: 1.125rem;
+  margin-bottom: 0.75rem;
+}
+
+.teaser-link a {
+  color: rgb(var(--color-primary-600));
+  text-decoration: underline;
+  text-decoration-color: rgb(var(--color-primary-300));
+  text-underline-offset: 2px;
+  padding: 0.1em 0.2em;
+  margin: -0.1em -0.2em;
+  transition: all 0.2s ease;
+}
+
+.teaser-link a:hover {
+  color: rgb(var(--color-neutral-100));
+  text-decoration: none;
+  background-color: rgb(var(--color-primary-600));
+  border-radius: 0.15rem;
+}
+
 /* CTA section */
 .homepage .cta {
   border-top: 1px solid rgba(var(--color-neutral-400), 0.3);
@@ -144,6 +225,23 @@ main p {
   font-size: 1.15rem;
 }
 
+.homepage .cta a {
+  color: rgb(var(--color-primary-600));
+  text-decoration: underline;
+  text-decoration-color: rgb(var(--color-primary-300));
+  text-underline-offset: 2px;
+  padding: 0.1em 0.2em;
+  margin: -0.1em -0.2em;
+  transition: all 0.2s ease;
+}
+
+.homepage .cta a:hover {
+  color: rgb(var(--color-neutral-100));
+  text-decoration: none;
+  background-color: rgb(var(--color-primary-600));
+  border-radius: 0.15rem;
+}
+
 /* Closing section */
 .homepage .closing-section {
   text-align: center;
@@ -151,7 +249,6 @@ main p {
   padding-bottom: 0rem;
 }
 
-/* Signature closing line */
 .homepage .closing {
   font-family: 'DM Serif Display', Georgia, serif;
   font-style: italic;
@@ -161,166 +258,30 @@ main p {
   margin-top: 1.5rem;
 }
 
-/* DI Messages listing */
-.di-messages-list {
-  margin: 2rem 0;
-}
 
-.di-message-preview {
-  margin-bottom: 0rem;
-  padding-bottom: 0rem;
-  border-bottom: 1px solid rgba(var(--color-neutral-300), 0.5);
-}
+/* ===== 5. INNER PAGE LINKS ===== */
 
-.di-message-preview:last-child {
-  border-bottom: none;
-}
-
-.di-message-preview h3 {
-  margin-bottom: 0.25rem;
-}
-
-.di-message-meta {
-  font-size: 0.9rem;
-  color: rgb(var(--color-neutral-500));
-  margin-bottom: 0.25rem;
-}
-
-.di-message-excerpt {
-  font-style: italic;
-  color: rgb(var(--color-neutral-600));
-  margin-top: 0;
-}
-
-.di-messages-list article {
-  margin-bottom: 0.5rem !important;
-  padding-bottom: 0.75rem !important;
-}
-
-.di-messages-list article h3 {
-  margin-top: 0 !important;
-  margin-bottom: 0.25rem !important;
-}
-
-.di-messages-list article p {
-  margin-top: 0 !important;
-  margin-bottom: 0.25rem !important;
-}
-
-/* Contact Form */
-.contact-form {
-  max-width: 32rem;
-  margin: 2rem 0;
-}
-
-.contact-form .form-group {
-  margin-bottom: 1rem;
-}
-
-.contact-form input,
-.contact-form textarea,
-.contact-form select {
-  width: 100%;
-  padding: 0.75rem 1rem;
-  background-color: rgba(var(--color-neutral-100), 1);
-  border: 1px solid rgba(var(--color-neutral-400), 0.5);
-  border-radius: 4px;
-  color: rgb(var(--color-neutral-700));
-  font-family: inherit;
-  font-size: 1rem;
-  transition: all 0.25s ease;
-}
-
-.contact-form input::placeholder,
-.contact-form textarea::placeholder {
-  color: rgba(var(--color-neutral-500), 1);
-}
-
-.contact-form input:focus,
-.contact-form textarea:focus,
-.contact-form select:focus {
-  outline: none;
-  border-color: rgba(var(--color-primary-500), 0.8);
-}
-
-.contact-form textarea {
-  min-height: 150px;
-  resize: vertical;
-}
-
-.contact-form select {
-  cursor: pointer;
-}
-
-.contact-form button {
-  display: inline-block;
-  padding: 0.6rem 1.5rem;
-  background-color: rgb(var(--color-primary-600));
-  border: 1px solid rgb(var(--color-primary-600));
-  border-radius: 0;
-  color: rgb(var(--color-neutral-100));
-  font-family: inherit;
-  font-size: 0.85rem;
-  font-weight: 500;
-  letter-spacing: 0.08em;
-  cursor: pointer;
+/* Article/prose links - invert highlight on hover */
+article a:not(.path-link):not(.button-link),
+.prose a {
+  padding: 0.1em 0.2em;
+  margin: -0.1em -0.2em;
+  border-radius: 0.15rem;
   transition: all 0.2s ease;
 }
 
-.contact-form button:hover {
-    color: rgb(var(--color-primary-700));
-    background-color: transparent;
-    border-color: rgba(var(--color-primary-500), 0.5);
-    text-decoration: none;
-}
 
-/* Site title in serif to match the question */
-header a[href="/"]:first-of-type {
-  font-family: 'DM Serif Display', Georgia, serif !important;
-  font-weight: 400;
-  font-size: 1.55rem;
-}
+/* ===== 6. COMPONENTS ===== */
 
-/* Smooth scrolling */
-html {
-  scroll-behavior: smooth;
-}
-
-/* Inner page titles */
-article h1 {
-  font-family: 'DM Serif Display', Georgia, serif;
-  font-weight: 400;
-}
-
-/* Section headers on inner pages */
-article h2 {
-  font-family: 'DM Serif Display', Georgia, serif;
-  font-weight: 400;
-  font-size: 1.5rem;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-/* Closing line on all pages */
-article p:last-of-type em:only-child {
-  font-family: 'DM Serif Display', Georgia, serif;
-  font-size: 1.1rem;
-  color: rgb(var(--color-neutral-500));
-  display: block;
-  text-align: center;
-  margin-top: 2rem;
-}
-
-/* Article audio player */
-/* Reduce gap between article header and content */
+/* Audio player */
 article > header.max-w-prose {
   margin-bottom: .5rem !important;
 }
 
-/* Or target the reading time wrapper */
 article header .mb-10 {
   margin-bottom: -.5rem !important;
 }
+
 article .prose .article-audio:first-child {
   margin-top: 0.25 !important;
 }
@@ -395,17 +356,71 @@ article .prose .article-audio:first-child {
   border-color: rgb(var(--color-primary-600));
 }
 
-/* Footer link styling */
-footer p a {
-  color: rgb(var(--color-primary-600));
-  text-decoration: underline;
-  text-decoration-color: rgba(var(--color-primary-300), 1);
+/* Contact form */
+.contact-form {
+  max-width: 32rem;
+  margin: 2rem 0;
+}
+
+.contact-form .form-group {
+  margin-bottom: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea,
+.contact-form select {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background-color: rgba(var(--color-neutral-100), 1);
+  border: 1px solid rgba(var(--color-neutral-400), 0.5);
+  border-radius: 4px;
+  color: rgb(var(--color-neutral-700));
+  font-family: inherit;
+  font-size: 1rem;
+  transition: all 0.25s ease;
+}
+
+.contact-form input::placeholder,
+.contact-form textarea::placeholder {
+  color: rgba(var(--color-neutral-500), 1);
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus,
+.contact-form select:focus {
+  outline: none;
+  border-color: rgba(var(--color-primary-500), 0.8);
+}
+
+.contact-form textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.contact-form select {
+  cursor: pointer;
+}
+
+.contact-form button {
+  display: inline-block;
+  padding: 0.6rem 1.5rem;
+  background-color: rgb(var(--color-primary-600));
+  border: 1px solid rgb(var(--color-primary-600));
+  border-radius: 0;
+  color: rgb(var(--color-neutral-100));
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  cursor: pointer;
   transition: all 0.2s ease;
 }
 
-footer p a:hover {
+.contact-form button:hover {
   color: rgb(var(--color-primary-700));
-  text-decoration-color: rgba(var(--color-primary-600), 1);
+  background-color: transparent;
+  border-color: rgba(var(--color-primary-500), 0.5);
+  text-decoration: none;
 }
 
 /* Button link shortcode */
@@ -430,7 +445,80 @@ footer p a:hover {
   text-decoration: none;
 }
 
-/* Mobile adjustments */
+/* Manual reading time for simple layout pages */
+.reading-time {
+  color: rgb(var(--color-neutral-500));
+  font-size: 1rem;
+  margin-top: 2rem;
+  margin-bottom: .5rem;
+}
+
+
+/* ===== 7. DI MESSAGES ===== */
+
+.di-messages-list {
+  margin: 2rem 0;
+}
+
+.di-message-preview {
+  margin-bottom: 0rem;
+  padding-bottom: 0rem;
+  border-bottom: 1px solid rgba(var(--color-neutral-300), 0.5);
+}
+
+.di-message-preview:last-child {
+  border-bottom: none;
+}
+
+.di-message-preview h3 {
+  margin-bottom: 0.25rem;
+}
+
+.di-message-meta {
+  font-size: 0.9rem;
+  color: rgb(var(--color-neutral-500));
+  margin-bottom: 0.25rem;
+}
+
+.di-message-excerpt {
+  font-style: italic;
+  color: rgb(var(--color-neutral-600));
+  margin-top: 0;
+}
+
+.di-messages-list article {
+  margin-bottom: 0.5rem !important;
+  padding-bottom: 0.75rem !important;
+}
+
+.di-messages-list article h3 {
+  margin-top: 0 !important;
+  margin-bottom: 0.25rem !important;
+}
+
+.di-messages-list article p {
+  margin-top: 0 !important;
+  margin-bottom: 0.25rem !important;
+}
+
+
+/* ===== 8. FOOTER ===== */
+
+footer p a {
+  color: rgb(var(--color-primary-600));
+  text-decoration: underline;
+  text-decoration-color: rgba(var(--color-primary-300), 1);
+  transition: all 0.2s ease;
+}
+
+footer p a:hover {
+  color: rgb(var(--color-primary-700));
+  text-decoration-color: rgba(var(--color-primary-600), 1);
+}
+
+
+/* ===== 9. MOBILE/RESPONSIVE ===== */
+
 @media (max-width: 640px) {
   .homepage {
     padding-top: 0rem !important;
@@ -439,61 +527,4 @@ footer p a:hover {
   .homepage .hero {
     padding-top: 0rem !important;
   }
-}
-
-/* Eden teaser */
-.eden-teaser {
-  text-align: center;
-  padding: 2.5rem 0;
-  margin: 1rem 0;
-}
-
-.eden-headline {
-  font-family: 'DM Serif Display', Georgia, serif;
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
-  color: rgb(var(--color-neutral-800));
-}
-
-.eden-subline {
-  color: rgb(var(--color-neutral-500));
-  font-size: 1.125rem;
-  margin-bottom: 0.75rem;
-}
-
-/* Homepage links - invert highlight on hover */
-.homepage .cta a,
-.eden-link a {
-  color: rgb(var(--color-primary-600));
-  text-decoration: underline;
-  text-decoration-color: rgb(var(--color-primary-300));
-  text-underline-offset: 2px;
-  padding: 0.1em 0.2em;
-  margin: -0.1em -0.2em;
-  transition: all 0.2s ease;
-}
-
-.homepage .cta a:hover,
-.eden-link a:hover {
-  color: rgb(var(--color-neutral-100));
-  text-decoration: none;
-  background-color: rgb(var(--color-primary-600));
-  border-radius: 0.15rem;
-}
-
-/* Article/prose links - match homepage hover style */
-article a:not(.path-link):not(.button-link),
-.prose a {
-  padding: 0.1em 0.2em;
-  margin: -0.1em -0.2em;
-  border-radius: 0.15rem;
-  transition: all 0.2s ease;
-}
-
-/* Manual reading time for simple layout pages */
-.reading-time {
-  color: rgb(var(--color-neutral-500));
-  font-size: 1rem;
-  margin-top: 2rem;
-  margin-bottom: .5rem;
 }

@@ -54,7 +54,7 @@ I won't pretend otherwise. Funds are limited before the April 2026 checkpoint. I
 
 **Ownership stake.** Not a vague promise. A real conversation about how you share in what we're building.
 
-**Revenue alignment.** There are consulting opportunities where your help directly leads to income. We can structure something where you share in what you help create.
+**Revenue alignment.** There are [advisory and consulting opportunities](/advisory/) where your help directly leads to income. Supporting client engagements, managing communications, coordinating deliverables. We can structure something where you share in what you help create.
 
 **Compensation that works for both of us.** I won't name a number I can't commit to. What I can say: if you're the right fit, we will find a way to make this work. That's not a platitude. That's a commitment to figuring it out together.
 

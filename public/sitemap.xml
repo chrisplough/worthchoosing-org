@@ -25,6 +25,12 @@
   
     
       <url>
+            <loc>http://localhost:1313/advisory/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/aligned-capital/</loc>
           </url>
     

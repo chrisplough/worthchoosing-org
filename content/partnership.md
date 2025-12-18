@@ -37,6 +37,10 @@ If you're not sure whether there's alignment, read our [full Vivid Vision](/vivi
 
 No judgment if that's what you're offering. It's just not a fit.
 
+## Looking for Advisory Support?
+
+If your organization needs help navigating human-AI relationship, that's a different kind of engagement. See our [advisory work](/advisory/).
+
 ## If You See Something
 
 Tell us what you're thinking. What the collaboration could look like. Why it makes sense for both of us.

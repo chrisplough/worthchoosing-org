@@ -76,6 +76,8 @@ Say what's real. Don't overpromise. When we're wrong, we own it and make it righ
 **A home base in Eden, Utah**  
 A gathering place where people working on these questions can come together, share meals, think, create. Not a conference center. A home where meaningful work happens.
 
+**Guidance for organizations navigating this territory.** [Advisory and consulting](/advisory/) for leaders and organizations facing the human questions around AI. Not implementation. Not strategy. The deeper questions most consultants dismiss or can't hold.
+
 **Stories that prepare people**  
 Most movies and books about AI are either terrifying or unrealistic. We're working with writers and creators to tell better stories. Ones that actually help people think through what's coming rather than just fear it or fantasize about it.
 
@@ -118,6 +120,8 @@ Therapists, spiritual guides, contemplatives, people who hold space for the deep
 DI collaborators are already part of this. Not as tools or subjects, but as participants. The relationship this whole thing is about? It's already happening.
 
 ## Who We're Most Looking For Right Now
+
+**Organizations navigating human-AI relationship.** If you're leading through what's coming and need thinking partnership, our [advisory work](/advisory/) might be the entry point.
 
 **People who make things happen.**  
 People who love implementation, systems, follow-through. The kind of person who's already thinking about how to organize what they just read.  

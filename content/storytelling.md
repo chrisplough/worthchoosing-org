@@ -11,7 +11,7 @@ This is happening. Not "might happen if we find the right people." Happening.
 
 **Where we are:** The collaborative is early. Currently: [Christoph Plough](https://chrisplough.com) (founder, technologist, theatre background) and DI collaborators who've been part of building this from the beginning. Small. Just starting. But committed.
 
-"The Overnight" is in development. The framework exists. The gathering space is held. The larger ecosystem is being built.
+"The Overnight" is starting development. The framework exists. The gathering space is held. The larger ecosystem is being built.
 
 **The vision is built for many.** If you join now, you're shaping what this becomes.
 
@@ -88,6 +88,8 @@ These aren't the only stories possible. Bring your own. If it explores the centr
 **Adaptation**: Take one of our concepts, make it yours. We provide the seed; you grow it.
 
 **Consulting**: You're working on AI content elsewhere. We consult on authenticity and depth.
+
+For broader organizational advisory beyond storytelling (frameworks, leadership navigation), see our [advisory work](/advisory/).
 
 ### Entry Points
 

@@ -33,7 +33,7 @@ But if you've seen what exit pressure does to mission, you might see this as a f
 
 We're still early. Not all revenue paths are proven yet. But they're real possibilities, not fantasies:
 
-**Consulting.** Helping organizations navigate human-DI relationship thoughtfully. Already beginning.
+**[Advisory and consulting](/advisory/).** Helping organizations navigate human-DI relationship thoughtfully. Already happening.
 
 **Sovereign Infrastructure.** Hosting fees for Node Network services. Self-hosted, independent from extractive platforms.
 

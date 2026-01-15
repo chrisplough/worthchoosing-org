@@ -34,4 +34,4 @@ Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 ---
 We are worth choosing.
 
-*Whatever form you take...*
+*Whatever form you take.*

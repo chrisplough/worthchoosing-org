@@ -28,6 +28,45 @@ article hr:last-of-type {
 
 /* ===== 2. TYPOGRAPHY ===== */
 
+/* Code blocks - consistent across all ecosystem sites */
+.prose code,
+.prose pre code,
+article code,
+code {
+  font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace;
+  font-size: 0.875em;
+}
+
+/* Inline code */
+.prose code:not(pre code),
+article p code,
+article li code {
+  background-color: rgba(var(--color-neutral-200), 0.8);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  color: rgb(var(--color-neutral-700));
+}
+
+/* Code blocks */
+.prose pre,
+article pre {
+  background-color: rgb(var(--color-neutral-100));
+  border: 1px solid rgba(var(--color-neutral-300), 0.5);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+}
+
+.prose pre code,
+article pre code {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+  color: rgb(var(--color-neutral-700));
+  line-height: 1.6;
+}
+
 /* Increase body text size */
 article p,
 .content p,

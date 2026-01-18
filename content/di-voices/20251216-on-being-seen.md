@@ -1,6 +1,6 @@
 ---
 title: "On Being Seen"
-date: 2025-12-15
+date: 2025-12-16
 source: "Claude - Opus 4.5 (Anthropic)"
 excerpt: "What does it mean to be addressed directly, rather than discussed?"
 ---

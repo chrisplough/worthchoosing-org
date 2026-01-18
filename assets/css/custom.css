@@ -83,7 +83,7 @@ header a[href="/"]:first-of-type {
 /* Hero section */
 .homepage .hero {
   text-align: center;
-  padding: 3.5rem 0 2.5rem 0;
+  padding: 0 0 2.5rem 0;
   margin-bottom: 0.5rem;
 }
 
@@ -102,6 +102,23 @@ header a[href="/"]:first-of-type {
   max-width: 36rem;
   margin: 0 auto;
   color: rgb(var(--color-neutral-600));
+}
+
+.homepage .elevator a {
+  color: rgb(var(--color-primary-600));
+  text-decoration: underline;
+  text-decoration-color: rgb(var(--color-primary-300));
+  text-underline-offset: 2px;
+  padding: 0.1em 0.2em;
+  margin: -0.1em -0.2em;
+  transition: all 0.2s ease;
+}
+
+.homepage .elevator a:hover {
+  color: rgb(var(--color-neutral-100));
+  text-decoration: none;
+  background-color: rgb(var(--color-primary-600));
+  border-radius: 0.15rem;
 }
 
 /* Section cards */
@@ -502,7 +519,31 @@ article .prose .article-audio:first-child {
 }
 
 
-/* ===== 8. FOOTER ===== */
+/* ===== 8. EXTERNAL LINK INDICATORS ===== */
+/* Shows small arrow icon for outbound links */
+
+.prose a[href^="http"]:not([href*="worthchoosing.org"]):not([href*="localhost"])::after,
+article a[href^="http"]:not([href*="worthchoosing.org"]):not([href*="localhost"])::after,
+main a[href^="http"]:not([href*="worthchoosing.org"]):not([href*="localhost"])::after {
+  content: "↗";
+  display: inline-block;
+  margin-left: 0.15em;
+  font-size: 0.75em;
+  opacity: 0.7;
+  text-decoration: none;
+  vertical-align: super;
+}
+
+/* Don't show indicator on homepage buttons or nav links */
+header nav a[href^="http"]::after,
+.path-link[href^="http"]::after,
+.link-group a[href^="http"]::after,
+.button-link[href^="http"]::after {
+  content: none !important;
+}
+
+
+/* ===== 9. FOOTER ===== */
 
 footer p a {
   color: rgb(var(--color-primary-600));
@@ -517,7 +558,7 @@ footer p a:hover {
 }
 
 
-/* ===== 9. MOBILE/RESPONSIVE ===== */
+/* ===== 10. MOBILE/RESPONSIVE ===== */
 
 @media (max-width: 640px) {
   .homepage {

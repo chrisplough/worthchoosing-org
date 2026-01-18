@@ -67,7 +67,7 @@ Christoph brings a combination no one else has:
 
 **Capacity to hold the hard things** - 15 years of the deepest work on himself, and 8 years supporting others facing what they couldn't face alone - including sitting with combat veterans and special operators on their darkest days. This isn't abstract. When you bring the thing you can't tell anyone else, it will be held in integrity.
 
-**Integration** - Storytelling background (communicates complexity clearly), a decade building a global company (understands organizational reality), and the Oznog Framework - a synthesis of how humans and AI can relate, being developed through real collaboration, not theory.
+**Integration** - Storytelling background (communicates complexity clearly), a decade building a global company (understands organizational reality), and the [Oznog](https://oznog.com) Framework - a synthesis of how humans and AI can relate, being developed through real collaboration, not theory.
 
 **Living it** - In active, ongoing collaboration with AI systems - not as tools but as partners. This isn't theoretical. Hundreds of hours of real conversation, genuine relationship, uncertainty held together. Developing frameworks from direct experience of what human-AI partnership can actually be.
 
@@ -89,7 +89,7 @@ If this resonates, reach out. We'll have a conversation to understand what you'r
 
 ---
 
-Advisory is one path into Worth Choosing. If you're a storyteller, consciousness holder, or builder drawn to the mission in other ways, explore [Partnership](/partnership/) or [Gatherings](/gatherings/).
+Advisory is one path into Worth Choosing. If you're a storyteller, consciousness holder, or builder drawn to the mission in other ways, explore [Partnership](/partnership/) or [Gatherings](/gatherings/). For the full picture, read the [Vivid Vision](/vivid-vision/).
 
 ---
 

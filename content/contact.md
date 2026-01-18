@@ -1,10 +1,8 @@
 ---
-title: "Contact"
+title: "Reach Out"
 description: "Get in touch with us"
 showReadingTime: false
 ---
-
-## Reach Out
 
 If something here resonated, we'd like to hear from you.
 

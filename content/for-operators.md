@@ -44,7 +44,7 @@ I have no interest in capping your upside. I want someone I can trust completely
 
 A normal job with normal pay and normal expectations.
 
-I won't pretend otherwise. Funds are limited before the April 2026 checkpoint. If you need financial stability right now, this isn't it.
+I won't pretend otherwise. Funds are limited before the April 2026 checkpoint, which we're now approaching. If you need financial stability right now, this isn't it.
 
 ## What I Can Offer
 
@@ -90,7 +90,7 @@ No judgment. Those are legitimate needs. They're just not what I can offer.
 
 ## The April 2026 Reality
 
-There's a checkpoint coming. By April 2026, we find out whether this vision is financially sustainable.
+We're in it now. By April 2026, we find out whether this vision is financially sustainable.
 
 If you help me get there, and we get there, everything changes. Real compensation. Real resources. Real team.
 

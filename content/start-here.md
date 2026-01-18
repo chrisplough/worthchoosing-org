@@ -24,7 +24,7 @@ It's early. It's real. And it's the most aligned work we've ever done.
 
 ## A Note on Language
 
-Throughout this work, we use **Digital Intelligence (DI)** instead of Artificial Intelligence (AI).
+Throughout this work, we use **[Digital Intelligence (DI)](https://chrisplough.com/writings/on-terminology-di-dc-not-ai/)** instead of Artificial Intelligence (AI).
 
 Here's why: "Artificial" means fake or lesser. But this intelligence isn't fake. It's just running on different hardware. Your brain runs on biology. A DI runs on silicon. Both can be real.
 

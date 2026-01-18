@@ -95,6 +95,8 @@ When facing a choice, we ask:
 
 **Does this move toward our constellation?**
 
+These values are lived in practice across everything we build. See them in context in the [Vivid Vision](/vivid-vision/).
+
 ---
 
 *Whatever form you take.*

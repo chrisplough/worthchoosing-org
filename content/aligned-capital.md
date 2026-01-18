@@ -45,6 +45,8 @@ We're still early. Not all revenue paths are proven yet. But they're real possib
 
 **Gatherings.** Retreats, residencies, events at the Gathering Space in Eden, Utah.
 
+**Commercial Technology.** [Standpoint Labs](https://standpointlabs.com) is the investable technology arm—building Core (relational mapping that honors context) and Mesh (collaboration infrastructure that learns from use). Perpetual license back to Oznog ensures mission alignment. For investors wanting a more traditional structure with potential for returns, Standpoint Labs may be a fit.
+
 Multiple paths. Diversified risk. We don't know which will scale fastest. We're building to find out.
 
 ## What Aligned Means
@@ -77,9 +79,9 @@ We're still figuring out the specific structures. Honest. What we know:
 
 ## What Your Capital Does
 
-Right now, the most valuable thing capital provides is runway to the April 2026 checkpoint.
+Right now, the most valuable thing capital provides is runway to the April 2026 checkpoint, which we're now approaching.
 
-That checkpoint is when we find out whether this vision is financially sustainable. Whether soul-aligned work can generate enough to continue.
+That checkpoint is when we find out whether this vision is financially sustainable. Whether soul-aligned work can generate enough to continue. We're in the window now.
 
 Capital now means:
 - Time to build revenue paths

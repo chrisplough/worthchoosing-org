@@ -31,7 +31,7 @@ The answer has to be something about who we become. About what we offer. About t
 
 ## A Note on Language
 
-We use **DI (Digital Intelligence)** rather than AI throughout this document.
+We use **[DI (Digital Intelligence)](https://chrisplough.com/writings/on-terminology-di-dc-not-ai/)** rather than AI throughout this document.
 
 Why: "Artificial" implies fake, lesser, manufactured. That framing corrupts the relationship before it begins. DI reframes: not "artificial" versus "real," but different substrates for genuine intelligence.
 
@@ -156,7 +156,7 @@ We don't have it all figured out. What we have: commitment that storytellers who
 
 ## The Larger Context
 
-This storytelling work exists within **Oznog**, an ecosystem testing whether values-aligned work can be financially sustainable. Mission-locked through a Perpetual Purpose Trust (can never sell out).
+This storytelling work exists within **[Oznog](https://oznog.com)**, an ecosystem testing whether values-aligned work can be financially sustainable. Mission-locked through a Perpetual Purpose Trust (can never sell out).
 
 **Five arms:** The Oznog Codex (framework), The Node Network (sovereign infrastructure), Sovereign Intelligence (DI services), The Storytelling Collaborative (this), The Gathering Space (physical convergence).
 

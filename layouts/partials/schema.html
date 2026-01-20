@@ -1,0 +1,55 @@
+{{/* Schema.org JSON-LD structured data for Worth Choosing */}}
+
+{{/* Organization schema - included on all pages */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worth Choosing",
+  "url": "https://worthchoosing.org",
+  "description": "The future of AI isn't about control. It's about relationship. Sovereign tech, stories, gatherings. Structured so it can never sell out.",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Oznog Holdings LLC",
+    "url": "https://oznog.com"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Christoph Plough",
+    "url": "https://chrisplough.com"
+  },
+  "sameAs": [
+    "https://worthchoosing.org",
+    "https://oznog.com",
+    "https://chrisplough.com"
+  ]
+}
+</script>
+
+{{/* Article schema - only on content pages with dates (di-voices, etc.) */}}
+{{ if and .IsPage .Date }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  {{ if .Lastmod }}"dateModified": "{{ .Lastmod.Format "2006-01-02" }}",{{ end }}
+  "author": {
+    "@type": "Organization",
+    "name": "Worth Choosing",
+    "url": "https://worthchoosing.org"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Worth Choosing",
+    "url": "https://worthchoosing.org"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }{{ if .Description }},
+  "description": "{{ .Description }}"{{ end }}
+}
+</script>
+{{ end }}

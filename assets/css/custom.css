@@ -160,6 +160,20 @@ header a[href="/"]:first-of-type {
   border-radius: 0.15rem;
 }
 
+.homepage .scroll-arrow {
+  font-size: 1.75rem;
+  font-weight: 550;
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(var(--color-neutral-600));
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.homepage .scroll-arrow:hover {
+  color: rgb(var(--color-primary-600));
+}
+
 /* Section cards */
 .homepage .paths-section {
   border-top: 1px solid rgba(var(--color-neutral-400), 0.3);

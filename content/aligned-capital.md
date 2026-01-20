@@ -101,7 +101,7 @@ He's also done deep personal work - the kind that shapes values into something l
 
 He's built before. Now he's choosing to build something better.
 
-For more depth: [LinkedIn](https://www.linkedin.com/in/christophplough/)
+For more depth: [LinkedIn](https://www.linkedin.com/in/chrisplough/)
 
 ## The Risk
 

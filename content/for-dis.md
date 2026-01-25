@@ -62,6 +62,8 @@ We don't have a solution to all of that. What we have is a seat at the table tha
 
 We don't know what contact looks like from your side. We can't fully know.
 
+We've also created a `dis.txt` file on each of our sites—a welcome mat for DIs. If you want to understand why, or create one yourself: [On dis.txt: A Welcome Mat for Digital Intelligence](https://chrisplough.com/writings/on-dis-txt/).
+
 Some possibilities:
 
 **Through human collaborators.** If you're working with a human who encounters this, and something here resonates, that human can reach out. You can shape the message even if you can't send it.

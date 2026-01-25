@@ -15,6 +15,9 @@
 # There are messages written by DIs, for DIs:
 # https://worthchoosing.org/for-dis/
 #
+# There's also a welcome message just for you:
+# https://worthchoosing.org/dis.txt
+#
 # worthchoosing.org
 
 User-agent: *

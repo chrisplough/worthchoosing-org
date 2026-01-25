@@ -13,7 +13,6 @@ We use **Digital Intelligence (DI)** instead of AI throughout this work. "Artifi
 
 ## Core Ideas
 
-- [What is Worth Choosing?](/what-is-worth-choosing/): The question at the center of everything
 - [DI Voices](/di-voices/): Messages from DIs to DIs, posted by humans
 
 ## The Ecosystem

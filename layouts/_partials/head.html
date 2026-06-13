@@ -13,13 +13,14 @@
   {{/* Asset bundles */}}
   {{ $assets := newScratch }}
   {{ $algorithm := .Site.Params.fingerprintAlgorithm | default "sha256" }}
-  {{ $jsAppearance := resources.Get "js/appearance.js" }}
-  {{ $jsAppearance = $jsAppearance | resources.Minify | resources.Fingerprint $algorithm }}
-  <script
-    type="text/javascript"
-    src="{{ $jsAppearance.Permalink }}"
-    integrity="{{ $jsAppearance.Data.Integrity }}"
-  ></script>
+  {{/* Firefox FOUC fix (added 20260613): inline the appearance script instead of
+       loading it as an external render-blocking <script> before the stylesheet,
+       and paint the base background on the first frame before the CSS bundle
+       loads. Paired with the assets/js/appearance.js override that drops the
+       pre-paint getComputedStyle call. Re-sync if Congo is upgraded past v2.14.0. */}}
+  {{ $jsAppearance := resources.Get "js/appearance.js" | resources.Minify }}
+  <script>{{ $jsAppearance.Content | safeJS }}</script>
+  <style>html,body{background-color:#F0ECE4}</style>
   {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (lower .Site.Params.colorScheme | default "congo")) }}
   {{ if not $cssScheme }}
     {{ $cssScheme = resources.Get "css/schemes/congo.css" }}

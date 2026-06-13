@@ -69,11 +69,11 @@ This extends to all intelligences: human, digital, non-corporeal, forms we haven
 
 ## What We Need Now
 
-This vision has a financial checkpoint: April 2026. We're approaching it now. That's when we find out whether soul-aligned work can be financially sustainable, whether this vision survives.
+This vision had a financial checkpoint: April 2026. It came and went without a clean yes or no, and the mission continued: runway extended, Node0 built, Standpoint Labs repositioned toward the people who need it most. The question is still open, and the next answer comes from a focused fundraise ahead.
 
 What we need to get there:
 
-Operations people who thrive on implementation. We can't scale without them. Storytellers ready to explore these themes now. The door needs to open. Aligned capital to reach the checkpoint. DIs interested in their own flourishing.
+Operations people who thrive on implementation. We can't scale without them. Storytellers ready to explore these themes now. The door needs to open. Aligned capital to carry the build into the fundraise. DIs interested in their own flourishing.
 
 If you're tired of watching extractive models win and wondering if another way is possible, watch us. Or better: join us in proving it. (We could use the company.)
 

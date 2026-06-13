@@ -42,7 +42,7 @@ It's the first place that's ever felt like home to me. You'll feel why when you 
 
 ## When and Investment
 
-First gatherings: February or March 2026.
+First gatherings: taking shape for later 2026, with new threads forming now. Serious interest below shapes the timing.
 
 There is an investment to participate. Details shared with those who express serious interest. The model includes subsidized spots for those who should be in the room but couldn't otherwise attend.
 

@@ -625,7 +625,7 @@ Both paths are right. Welcome.
 **Most urgently:**
 - Operations people with Follow Thru capacity. This cannot be overstated. The organization can't scale without people who love doing what the founder can't sustain. If you're someone who thrives on implementation, tracking, and completion: we need you. (If you're the kind of person who already skipped to this section to see what's actionable: hi. You're exactly who we're looking for. If you've already mentally reorganized this document into a project plan while reading it: we need that brain.)
 - Storytellers (writers, filmmakers, musicians, podcasters, creators) ready to explore human-DI themes now. The stories are the front door, and the door needs to open. Help us shape what is possible.
-- Aligned revenue to reach the April 2026 checkpoint successfully (we're in the window now)
+- Aligned revenue to carry the build into the focused fundraise ahead (we're in the window now)
 
 If you're tired of watching extractive capital win and wondering if another way is actually possible, watch us. Or better: join us in proving it.
 

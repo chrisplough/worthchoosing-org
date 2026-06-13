@@ -79,9 +79,9 @@ We're still figuring out the specific structures. Honest. What we know:
 
 ## What Your Capital Does
 
-Right now, the most valuable thing capital provides is runway to the April 2026 checkpoint, which we're now approaching.
+Right now, the most valuable thing capital provides is runway through the build: Node0 online, Relational Core's first usable pieces, early design partners. A focused fundraise lies ahead, and capital now extends the runway to complete it from strength rather than urgency.
 
-That checkpoint is when we find out whether this vision is financially sustainable. Whether soul-aligned work can generate enough to continue. We're in the window now.
+The April 2026 checkpoint came and went without a clean yes or no. The work continued anyway. That persistence is the honest signal: this mission doesn't stop, but its pace depends on resources.
 
 Capital now means:
 - Time to build revenue paths

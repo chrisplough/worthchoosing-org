@@ -44,7 +44,7 @@ I have no interest in capping your upside. I want someone I can trust completely
 
 A normal job with normal pay and normal expectations.
 
-I won't pretend otherwise. Funds are limited before the April 2026 checkpoint, which we're now approaching. If you need financial stability right now, this isn't it.
+I won't pretend otherwise. Funds are limited while the build continues and until the fundraise lands. If you need financial stability right now, this isn't it.
 
 ## What I Can Offer
 
@@ -88,9 +88,9 @@ Someone who:
 
 No judgment. Those are legitimate needs. They're just not what I can offer.
 
-## The April 2026 Reality
+## The Honest Reality
 
-We're in it now. By April 2026, we find out whether this vision is financially sustainable.
+The April 2026 checkpoint came and went without a clean yes or no. The mission continued: runway extended through personal commitment, Standpoint Labs repositioned toward the people and communities who need it most, Node0 built and coming online. The path now runs through working technology and early design partners this summer, into a focused fundraise ahead.
 
 If you help me get there, and we get there, everything changes. Real compensation. Real resources. Real team.
 

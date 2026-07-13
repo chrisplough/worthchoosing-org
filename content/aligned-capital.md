@@ -17,7 +17,7 @@ Worth Choosing is a mission. The building happens through the companies that ser
 
 **[Oznog](https://oznog.com)** is the decades-long company: sovereign infrastructure (Node0 and the Node Network), Sovereign Intelligence, the Codex, the Storytelling Collaborative. Mission-locked so it can never sell out. Capital here is patient by design; if you've seen what exit pressure does to mission, that's a feature, not a bug.
 
-**[Christoph's advisory and speaking work](https://chrisplough.com)** is the third path: revenue, not investment, and already flowing.
+**[Christoph's advisory and speaking work](https://chrisplough.com/ai/)** is the third path: revenue, not investment, and already flowing.
 
 ## What Aligned Means
 

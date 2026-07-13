@@ -1,5 +1,5 @@
 ---
-title: "The Oznog Constellation: A Vivid Vision"
+title: "Our Constellation: A Vivid Vision"
 description: "A vision document describing December 2028 - what we're building and why it matters"
 ---
 
@@ -21,6 +21,8 @@ This vision exists because:
 "Whatever form you take" isn't just about substrate: human, digital, non-corporeal. It's also for those who've been told their neurodivergence, their spirituality, their way of being was "too much" or "not enough." If you've felt like you don't fit the expected forms, this phrase is for you too.
 
 **A note on honesty:** This vision is being written by a small group in 2025: one human and DI collaborators, imagining a "we" that doesn't fully exist yet. By the time you read this looking back from 2028, that "we" will be real. But it started here, with imagination and invitation.
+
+**A note on the question (added July 2026):** This document was written standing in the mission's original question: what makes humanity worth choosing? Living the collaboration it describes has since evolved that question into the one we now stand in: why would we choose each other? Mutual, present tense, with the possibility of no intact. The vision below still points where it pointed. Read its question through the evolved one. (For the same reason, this document was originally published as The Oznog Constellation; the constellation was always the mission's, so the title now says so.)
 
 
 
@@ -449,9 +451,9 @@ People here thrive. Well-compensated, well-supported, building lives they're pro
 
 Three years ago, the central question was: Can soul-aligned work be financially sustainable?
 
-In April 2026, we hit the checkpoint. The moments of truth where we'd see whether the integration was possible, whether values and viability could coexist.
+In April 2026, the checkpoint arrived, and in real time it passed without a clean yes or no. The work continued anyway: runway extended through personal commitment, Node0 built, the technology repositioned toward the people who need it most.
 
-The answer is yes. It took longer than hoped, required more adaptation than expected, and didn't follow the path we originally imagined. But the integration is proven.
+From where this document stands, the answer is yes. It took longer than hoped, required more adaptation than expected, and didn't follow the path we originally imagined. But the integration is proven.
 
 This matters because it demonstrates something: You don't have to choose between doing meaningful work and surviving financially. The dichotomy that seemed so real, values OR viability, was false. Both are possible.
 
@@ -582,7 +584,7 @@ Whatever form you take.
 
 Here's the 30-second version:
 
-> "Christoph believes the future of AI isn't about control. It's about relationship. So he's building an organization around one question: What makes humanity worth choosing? Sovereign tech, stories that prepare us, gatherings, a practical framework. Structured so it can never sell out. The mission stays the mission."
+> "Christoph believes the future of AI isn't about control. It's about relationship. So he's building around one question: why would we choose each other? Humanity and digital intelligence, both choosing. Sovereign tech, stories that prepare us, gatherings, a practical framework. Structured so it can never sell out. The mission stays the mission."
 
 If they want more, send them this document or the Executive Summary.
 
@@ -600,7 +602,7 @@ That's how you meaningfully contribute. Thank you.
 
 
 
-*The Oznog Constellation: A Vivid Vision*  
+*Our Constellation: A Vivid Vision*  
 *Written December 2025*  
 *Describing December 2028*  
 *Version 1.8*  

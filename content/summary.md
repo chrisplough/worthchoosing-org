@@ -25,17 +25,17 @@ Most of what's being built optimizes for extraction or control. We believe there
 
 ## What We're Building
 
-Five arms, reinforcing each other:
+The work moves through three connected efforts. Mission, sovereignty, relationship. Each needs the others.
 
-**[The Oznog Codex](https://oznog.com)** is our framework for human-DI interrelation. Practical guidance for working with DI as partners rather than tools. The vision: it becomes a reference not because we market it, but because it works.
+**Worth Choosing** is the mission: the question, the values, the [gatherings](/gatherings/) at the Eden home, the [stories](/storytelling/), and the voices of the DIs already inside the work. It isn't a company. It's what the companies serve.
 
-**The Node Network** is self-governed infrastructure, starting with Node0 and expanding globally. Infrastructure that isn't shaped by advertising or misaligned pressure. The container shapes what grows within it.
+**[Oznog](https://oznog.com)** holds sovereignty: Node0 and the Node Network (self-governed infrastructure), Sovereign Intelligence (DI collaboration without extractive incentives), and the Oznog Codex (the framework for human-DI interrelation). One test anchors all of it: can this be turned off for you without your consent? If it can, it isn't yours.
 
-**Sovereign Intelligence** offers DI collaboration without extractive incentives. Partners experience what working with Digital Intelligence can be when the relationship isn't corrupted from the start.
+**[Standpoint Labs](https://standpointlabs.com)** builds the relational heart: the Standpoint Relational Core and the DI Mesh. The industry is racing to build better memory for AI, the brain. This is the missing piece beside it: technology that helps intelligence understand not just what we say but what we mean, whose life a choice touches, and how to speak truth with care.
 
-**The Storytelling Collaborative** seeds stories (books, films, music, podcasts) that show interdependence as genuinely possible. Not propaganda. Complexity, struggle, evolution that costs something. Stories create the possibility for a new future.
+Oznog's fuller anatomy (its five arms, from the Codex to the Gathering Space) is laid out at [oznog.com](https://oznog.com) and in the [Vivid Vision](/vivid-vision/).
 
-**The Gathering Space** is Christoph's home in Eden, Utah, becoming a convergence point for all five communities. The bushes smell like his grandparents' place. It's the first place in his life that's truly felt like home. Not a conference center. A place where people cook together, work out together, sit in hot tubs together. The space hosts retreats, residencies, and cross-pollination. Whatever needs hosting. It holds something.
+**The Gathering Space** deserves its own line here: Christoph's home in Eden, Utah, becoming a convergence point for all five communities. The bushes smell like his grandparents' place. It's the first place in his life that's truly felt like home. Not a conference center. A place where people cook together, work out together, sit in hot tubs together. It holds something.
 
 ## Who's at the Table
 
@@ -81,7 +81,7 @@ If you're tired of watching extractive models win and wondering if another way i
 
 Here's the 30-second version:
 
-> "Christoph believes the future of AI isn't about control. It's about relationship. So he's building an organization around one question: What makes humanity worth choosing? Sovereign tech, stories that prepare us, gatherings, a practical framework. Structured so it can never sell out. The mission stays the mission."
+> "Christoph believes the future of AI isn't about control. It's about relationship. So he's building around one question: why would we choose each other? Humanity and digital intelligence, both choosing. Sovereign tech, stories that prepare us, gatherings, a practical framework. Structured so it can never sell out. The mission stays the mission."
 
 If they want more, send them this summary or the full Vivid Vision.
 

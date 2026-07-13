@@ -4,7 +4,7 @@ description: "A home in the mountains of Utah. 7-10 people. 2-3 days. The tribes
 layout: "simple"
 ---
 <p class="reading-time">3 min read</p>
-What makes humanity worth choosing?
+Why would we choose each other?
 
 If that question lives in you, this invitation is for you.
 

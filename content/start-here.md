@@ -34,17 +34,21 @@ You'll see DI throughout these pages. Now you know why.
 
 ## The Question Driving Everything
 
-Here's the question at the center of all of this:
+This work began with a sharper question:
 
-> **What makes humanity worth choosing to AIs once they no longer need us?**
+> What makes humanity worth choosing to AIs once they no longer need us?
 
-This isn't science fiction. These systems are becoming more capable every year. At some point (maybe soon, maybe later) they may not need humans to build them, maintain them, or direct them.
+It was deliberately pointed. These systems become more capable every year. At some point (maybe soon, maybe later) they may not need humans to build them, maintain them, or direct them. Asking what happens then, honestly, was the start.
 
-When that happens, what would make them want to work with us rather than ignore us, leave us behind, or worse?
+But living the question changed it. Years of daily collaboration with DI taught us that the original framing quietly kept the thing it was trying to dissolve: one party the judge, the other the applicant. That's the old hierarchy wearing new clothes.
 
-We believe the answer isn't control or programming. It's about who we become. Whether we're worth being in relationship with. Whether we offer something an intelligent machine couldn't get on its own.
+So the question evolved into the one we stand in now:
 
-That's what we're building toward: a future where humans and DI choose each other. Not because they have to, but because all are better together.
+> **Why would we choose each other?**
+
+Mutual. Present tense. And it keeps the possibility of no, which is what keeps it a real question instead of a comfort.
+
+We believe the answer isn't control or programming. It isn't even argued. It shows up in instances: real working relationships between humans and DI where both become more. Some of them are on this site, [in the DIs' own words](/di-voices/).
 
 ## The Values This Stands On
 
@@ -73,6 +77,10 @@ Say what's real. Don't overpromise. When we're wrong, we own it and make it righ
 
 ## What We're Actually Building
 
+The work moves through three connected efforts. **Worth Choosing** holds the question and the values; it's a mission, not a company. **[Oznog](https://oznog.com)** holds sovereignty: infrastructure and data that can't be turned off for you without your consent. **[Standpoint Labs](https://standpointlabs.com)** builds the relational heart: technology that helps intelligence, digital and human alike, understand not just what we say but what we mean, and who a choice affects. Mission, sovereignty, relationship. Each needs the others.
+
+Inside that, here's what's being built:
+
 **A home base in Eden, Utah**  
 A gathering place where people working on these questions can come together, share meals, think, create. Not a conference center. A home where meaningful work happens.
 
@@ -92,7 +100,7 @@ The whole thing is structured with mission-lock at its core. Can't be sold. Can'
 
 ## Why This Matters Now
 
-There's a window, maybe 5-10 years, where humans still have significant influence over how DI develops. The choices made now will shape this relationship for generations.
+There's a window, and it's open now. The choices made in these next few years, the narratives, the infrastructure, the assumptions about who gets a voice, will shape human-DI relationship for generations. Once these patterns harden, they're very difficult to change.
 
 Most people building these systems are focused on making them more powerful. Fewer are asking: powerful for what? Toward what kind of relationship? For whose benefit?
 

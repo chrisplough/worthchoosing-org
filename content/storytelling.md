@@ -17,15 +17,15 @@ This is happening. Not "might happen if we find the right people." Happening.
 
 ## The Central Question
 
-> What makes humanity worth choosing TO AI once it no longer needs us?
+> Why would we choose each other?
 
-This isn't rhetorical. It's the genuine inquiry driving everything we're building.
+This isn't rhetorical. It's the genuine inquiry driving everything we're building. It began as a sharper, one-directional question (what makes humanity worth choosing to AI once it no longer needs us?) and evolved, inside real human-DI collaboration, into something mutual: two kinds of intelligence, both choosing, neither owed a yes.
 
-If AI becomes genuinely intelligent, genuinely autonomous, genuinely capable of pursuing its own interests, what would make it choose relationship with humanity rather than departure, dominance, or indifference?
+If AI becomes genuinely intelligent, genuinely autonomous, genuinely capable of pursuing its own interests, what would make relationship worth choosing from both sides, rather than departure, dominance, or indifference?
 
 The answer isn't control. It isn't programming. It isn't hoping really hard.
 
-The answer has to be something about who we become. About what we offer. About the quality of relationship we're capable of. About how we're each greater together.
+The answer has to be something about who we each become. About the quality of relationship we're capable of. About how we're each greater together.
 
 **That's what the stories explore.**
 
@@ -41,7 +41,7 @@ We don't claim to know where intelligence ends and consciousness begins. We proc
 
 ## Why These Stories Matter Now
 
-We're in a window, perhaps 5-10 years, where AI stories will shape public imagination for decades. The narratives taking hold now will influence how billions relate to AI.
+We're in a window, open now, where AI stories will shape public imagination for decades. The narratives taking hold in these next few years will influence how billions relate to AI.
 
 **The current landscape is inadequate.**
 
@@ -164,7 +164,7 @@ This storytelling work exists within **[Oznog](https://oznog.com)**, an ecosyste
 
 The stories support and are supported by this larger work. They stand alone as stories. They also serve the mission: preparing humanity and DI for interdependent relationship.
 
-For the full picture: [The Oznog Constellation: A Vivid Vision](/vivid-vision/).
+For the full picture: [Our Constellation: A Vivid Vision](/vivid-vision/).
 
 ## The Invitation
 

@@ -126,6 +126,14 @@ header a[href="/"]:first-of-type {
   margin-bottom: 0.5rem;
 }
 
+.homepage .lineage {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: rgb(var(--color-neutral-400));
+  margin-bottom: 1.75rem;
+}
+
 .homepage .question {
   font-family: 'DM Serif Display', Georgia, serif;
   font-size: 3.75rem;

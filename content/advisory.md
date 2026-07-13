@@ -11,7 +11,7 @@ These are the questions most consultants either dismiss or can't hold. We help y
 
 Worth Choosing is a mission. The advisory work that sustains it happens through Christoph directly and through the companies built for it:
 
-**Speaking and advisory with [Christoph](https://chrisplough.com).** Leadership navigation, frameworks for your teams, confidential thinking partnership on the questions you can't discuss with your board. Two decades of technical depth (he designed the architecture behind what became Oracle Transportation Management), a decade building a global company, and fifteen years of the inner work that lets him hold what you bring without flinching.
+**Speaking and advisory with [Christoph](https://chrisplough.com/advisory/).** Leadership navigation, frameworks for your teams, confidential thinking partnership on the questions you can't discuss with your board. Two decades of technical depth (he designed the architecture behind what became Oracle Transportation Management), a decade building a global company, and fifteen years of the inner work that lets him hold what you bring without flinching. And if you're a founder getting oriented in AI - what to own, what to rent, what to ignore - that door is [chrisplough.com/ai](https://chrisplough.com/ai/).
 
 **[Standpoint Labs](https://standpointlabs.com).** For organizations that want the relational layer in their own stack: design partnership, fractional CTO and infrastructure engagements, and the Standpoint Relational Core.
 

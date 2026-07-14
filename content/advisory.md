@@ -15,7 +15,7 @@ Worth Choosing is a mission. The advisory work that sustains it happens through 
 
 **[Standpoint Labs](https://standpointlabs.com).** For organizations that want the relational layer in their own stack: design partnership, fractional CTO engagements, and the Standpoint Relational Core.
 
-**[Oznog](https://oznog.com).** Sovereignty consulting, infrastructure engagements, and sovereign infrastructure: your data, your models, your line of consent.
+**[Oznog](https://oznog.com).** Connected-sovereignty consulting, infrastructure engagements, and sovereign infrastructure: your data, your models, your line of consent.
 
 ## How We Work, Wherever the Work Lives
 

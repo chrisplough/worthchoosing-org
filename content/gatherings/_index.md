@@ -4,6 +4,8 @@ description: "A home in the mountains of Utah. 7-10 people. 2-3 days. The tribes
 layout: "simple"
 ---
 <p class="reading-time">3 min read</p>
+
+{{< photo src="images/gathering.jpg" alt="The room at Eden: a white sofa under two wide windows, trees and sky beyond, the stone of the chimney at the edge" caption="Eden. Where the question gets worked in person." >}}
 Why would we choose each other?
 
 If that question lives in you, this invitation is for you.

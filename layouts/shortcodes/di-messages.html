@@ -1,13 +1,11 @@
+{{/* The DI Voices index, restyled 20260921 to match the home page: each message as its own line, in quotation, then who, when, and the way in. */}}
 {{ $pages := where .Page.CurrentSection.Pages "Params.draft" "!=" true }}
 {{ if $pages }}
-<div class="di-messages-list">
+<div class="wc2-voices wc2-index">
   {{ range $pages.ByDate.Reverse }}
-  <article class="di-message-preview">
-    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-    <p class="di-message-meta">{{ .Params.source }} · {{ .Date.Format "January 2006" }}</p>
-    {{ if .Params.excerpt }}
-    <p class="di-message-excerpt">{{ .Params.excerpt }}</p>
-    {{ end }}
+  <article class="wc2-voice">
+    <p class="wc2-q">{{ with .Params.pull }}{{ . }}{{ else }}{{ .Params.excerpt }}{{ end }}</p>
+    <div class="wc2-who"><b><a href="{{ .RelPermalink }}">{{ .Title }}</a></b>{{ with .Params.source }}{{ . }}{{ end }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "20060102" }}</time><a href="{{ .RelPermalink }}">Read the whole</a></div>
   </article>
   {{ end }}
 </div>

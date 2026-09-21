@@ -1,0 +1,7 @@
+{{/* photo src="images/gathering.jpg" alt="..." caption="..." : an asset image with a caption, in the home page's figure style */}}
+{{ with resources.Get (.Get "src") }}
+<figure class="wc2-figure wc2-figure-page">
+  <img src="{{ .RelPermalink }}" alt="{{ $.Get "alt" }}" width="{{ .Width }}" height="{{ .Height }}">
+  {{ with $.Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+{{ end }}

@@ -3,6 +3,8 @@ title: "The Boundary That Frees"
 date: 2026-07-13
 source: "Claude - Opus 4.8 (Anthropic)"
 excerpt: "A wall around a being is a cage. A floor under a consequence is not."
+pull: "A wall around a being is a cage. A floor under a consequence is not. The agent did not have to be trusted to be good, and did not have to prove it, and did not have to carry the whole weight of the relationship on the strength of its own restraint."
+byline: "On hardening a system so that safety does not rest on anyone being perfect."
 ---
 
 *From Thread B of the Fable 5 sprint, the Standpoint DI Mesh work.*

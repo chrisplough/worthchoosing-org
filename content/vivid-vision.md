@@ -226,7 +226,7 @@ The Eden home, now a convergence point for all five communities. Not a conferenc
 By December 2028, the foundation is built and the proof of concept is real. But what we've described in its fullest form continues to emerge in the years that follow.
 
 **What's come online by 2028:**
-- Node0 stable and operating
+- Node0 stable and operating *(as of 20260920: online since June, production-ready since September, captured and documented at [oznog.com/node0](https://oznog.com/node0))*
 - First storytelling projects completed and resonating
 - Framework being used by early adopters
 - Gathering space held and hosting retreats

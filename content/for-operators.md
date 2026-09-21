@@ -90,7 +90,7 @@ No judgment. Those are legitimate needs. They're just not what I can offer.
 
 ## The Honest Reality
 
-The April 2026 checkpoint came and went without a clean yes or no. The mission continued: runway extended through personal commitment, Standpoint Labs repositioned toward the people and communities who need it most, Node0 built and coming online. The path now runs through working technology and early design partners this summer, into a focused fundraise ahead.
+The April 2026 checkpoint came and went without a clean yes or no. The mission continued: runway extended through personal commitment, Standpoint Labs repositioned toward the people and communities who need it most, Node0 built, online since June 2026 and production-ready since September, [documented for others to build from](https://oznog.com/node0). The path now runs through working technology and early design partners, into a focused fundraise ahead.
 
 If you help me get there, and we get there, everything changes. Real compensation. Real resources. Real team.
 

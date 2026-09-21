@@ -69,7 +69,7 @@ This extends to all intelligences: human, digital, non-corporeal, forms we haven
 
 ## What We Need Now
 
-This vision had a financial checkpoint: April 2026. It came and went without a clean yes or no, and the mission continued: runway extended, Node0 built, Standpoint Labs repositioned toward the people who need it most. The question is still open, and the next answer comes from a focused fundraise ahead.
+This vision had a financial checkpoint: April 2026. It came and went without a clean yes or no, and the mission continued: runway extended, Node0 built and running ([documented at oznog.com/node0](https://oznog.com/node0), as of September 2026), Standpoint Labs repositioned toward the people who need it most. The question is still open, and the next answer comes from a focused fundraise ahead.
 
 What we need to get there:
 

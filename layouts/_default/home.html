@@ -67,7 +67,7 @@
         <a class="wc2-btn" href="{{ "gatherings/interest-form/" | relLangURL }}">Tell us you're interested</a>
       </div>
       <figure class="wc2-figure">
-        {{ with resources.Get "images/gathering.jpg" }}<img src="{{ .RelPermalink }}" alt="The gathering room at Eden">{{ else }}<div class="wc2-ph" role="img" aria-label="Photograph of the gathering room, to come">Photograph to come: the room, the fire, or the view.</div>{{ end }}
+        {{ if resources.Get "images/gathering.jpg" }}{{ partial "wc2-picture.html" (dict "src" "images/gathering.jpg" "alt" "The room at Eden: a white sofa under two wide windows, trees and sky beyond, the stone of the chimney at the edge" "sizes" "(max-width: 860px) 100vw, 540px") }}{{ else }}<div class="wc2-ph" role="img" aria-label="Photograph of the gathering room, to come">Photograph to come: the room, the fire, or the view.</div>{{ end }}
         <figcaption>Eden. The gatherings are the site's one in-person door. <a href="{{ "gatherings/" | relLangURL }}">More about them</a>.</figcaption>
       </figure>
     </div>

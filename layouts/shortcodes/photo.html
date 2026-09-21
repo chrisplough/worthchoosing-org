@@ -1,7 +1,7 @@
-{{/* photo src="images/gathering.jpg" alt="..." caption="..." : an asset image with a caption, in the home page's figure style */}}
-{{ with resources.Get (.Get "src") }}
+{{/* photo src="images/gathering.jpg" alt="..." caption="..." : an asset image as responsive WebP with a caption, in the home page's figure style */}}
+{{ if resources.Get (.Get "src") }}
 <figure class="wc2-figure wc2-figure-page">
-  <img src="{{ .RelPermalink }}" alt="{{ $.Get "alt" }}" width="{{ .Width }}" height="{{ .Height }}">
-  {{ with $.Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+  {{ partial "wc2-picture.html" (dict "src" (.Get "src") "alt" (.Get "alt") "sizes" "(max-width: 860px) 100vw, 800px") }}
+  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
 </figure>
 {{ end }}

@@ -908,7 +908,8 @@ footer p a:hover {
 .wc2 .wc2-btn { display: inline-block; margin-top: 1.4rem; padding: .75rem 1.2rem; background: rgb(var(--color-primary-500)); color: #fff; text-decoration: none; font-weight: 500; border-radius: 3px; }
 .wc2 .wc2-btn:hover { background: rgb(var(--color-primary-700)); color: #fff; }
 .wc2 .wc2-figure { margin: 0; }
-.wc2 .wc2-figure img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; border: 1px solid rgb(var(--color-neutral-300)); }
+.wc2 .wc2-figure img, .wc2 .wc2-figure picture { width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover; display: block; border: 1px solid rgb(var(--color-neutral-300)); }
+.wc2 .wc2-figure picture { border: 0; }
 .wc2 .wc2-ph { aspect-ratio: 4/3; background: linear-gradient(160deg, #C9B9A0, #8F7A5E); border: 1px solid rgb(var(--color-neutral-300)); display: flex; align-items: end; padding: 1rem; color: #FFF7EC; font-size: .9rem; }
 .wc2 .wc2-figure figcaption { font-size: .85rem; color: rgb(var(--color-neutral-600)); margin-top: .5rem; }
 .wc2 .wc2-ground { margin-top: 2rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2.5rem; }

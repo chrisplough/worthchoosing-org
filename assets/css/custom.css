@@ -874,7 +874,7 @@ footer p a:hover {
 .wc2 .wc2-hero { padding-top: clamp(2rem, 6vw, 4.5rem); }
 .wc2 .wc2-grid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: clamp(2rem, 6vw, 5rem); align-items: start; }
 .wc2 .wc2-hero .lineage { text-align: left; margin-bottom: 1rem; }
-.wc2 .wc2-hero .question { text-align: left; font-size: clamp(2.8rem, 7vw, 5.2rem); max-width: 12ch; margin: 0; }
+.wc2 .wc2-hero .question { text-align: left; font-size: clamp(2.8rem, 6vw, 5.2rem); max-width: 13ch; margin: 0; }
 .wc2 .wc2-after { margin-top: 1.6rem; max-width: 64ch; font-size: 1.2rem; color: rgb(var(--color-neutral-800)); }
 .wc2 .wc2-after p + p { margin-top: .8rem; }
 .wc2 .wc2-you { padding-top: clamp(.5rem, 4vw, 3.2rem); }
@@ -924,9 +924,12 @@ footer p a:hover {
 .wc2 .wc2-signup input[type="email"] { flex: 1 1 16rem; min-width: 0; box-sizing: border-box; max-width: 26rem; }
 .wc2 .wc2-visually-hidden { position: absolute; left: -999px; }
 .wc2 .wc2-closing { font-family: 'DM Serif Display', Georgia, serif; font-size: 1.6rem; color: rgb(var(--color-neutral-800)); padding: 3rem 0 2rem; }
+@media (max-width: 1000px) {
+  .wc2 .wc2-grid { grid-template-columns: 1fr; }
+  .wc2 .wc2-you { padding-top: 0; max-width: 64ch; }
+}
 @media (max-width: 860px) {
-  .wc2 .wc2-grid, .wc2 .wc2-gath, .wc2 .wc2-ground, .wc2 .wc2-under { grid-template-columns: 1fr; }
-  .wc2 .wc2-you { padding-top: 0; }
+  .wc2 .wc2-gath, .wc2 .wc2-ground, .wc2 .wc2-under { grid-template-columns: 1fr; }
   .wc2 .wc2-voice { grid-template-columns: 1fr; gap: 1rem; }
   .wc2 .wc2-routes { grid-template-columns: 1fr 1fr; }
 }
@@ -967,3 +970,18 @@ footer p a:hover {
 .wc2-figure-page img { width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover; display: block; border: 1px solid rgb(var(--color-neutral-300)); }
 .wc2-figure-page figcaption { font-size: .85rem; color: rgb(var(--color-neutral-600)); margin-top: .5rem; }
 @media (max-width: 860px) { .wc2-index .wc2-voice { grid-template-columns: 1fr; gap: .8rem; } }
+
+/* theme header and footer at the sm breakpoint (640 to 767): menu items wrap as whole items, never inside a name; the footer menu may wrap */
+header nav a, header nav a span { white-space: nowrap; }
+@media (min-width: 640px) and (max-width: 767px) {
+  footer nav ul, footer ul { flex-wrap: wrap; justify-content: flex-start; row-gap: .4rem; }
+  footer nav li, footer li { text-align: left; }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  header nav ul { flex-wrap: wrap; justify-content: flex-end; row-gap: .3rem; }
+  header nav li { margin-inline-end: 1.1rem !important; }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  header nav ul { margin-left: 1.5rem; flex-wrap: wrap; justify-content: flex-end; row-gap: .3rem; }
+  header nav li { margin-inline-end: 1.2rem !important; }
+}

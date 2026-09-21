@@ -930,3 +930,22 @@ footer p a:hover {
   .wc2 .wc2-routes { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 520px) { .wc2 .wc2-routes { grid-template-columns: 1fr; } }
+
+/* wc2 links: visibly links, with a hover, everywhere on the home page except the routes and buttons */
+.wc2 a:not(.wc2-route):not(.wc2-btn):not(.signup-button) {
+  color: rgb(var(--color-primary-700));
+  text-decoration: underline;
+  text-decoration-color: rgb(var(--color-primary-500));
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  transition: color .15s ease, text-decoration-thickness .15s ease;
+}
+.wc2 a:not(.wc2-route):not(.wc2-btn):not(.signup-button):hover {
+  color: rgb(var(--color-neutral-800));
+  text-decoration-thickness: 2px;
+}
+/* the external-link arrow stays with its word */
+.wc2 a[href^="http"] { white-space: nowrap; }
+.wc2 a[href^="http"]::after { vertical-align: baseline; font-size: 0.8em; margin-left: 0.2em; }
+.wc2 #stay.email-signup-section { text-align: left; }
+.wc2 #stay .signup-heading, .wc2 #stay h2 { text-align: left; }
